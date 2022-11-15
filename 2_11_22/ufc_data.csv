@@ -1,0 +1,626 @@
+,event_number,event_name,event_date,venue,audience_size,city,state,country,event_day,event_month,event_year,event_dayname
+0,1,UFC 1: The Beginning,1993-11-12,McNichols Sports Arena,7800.0,Denver,Colorado,U.S.,12,11,1993,Friday
+1,2,UFC 2: No Way Out,1994-03-11,Mammoth Gardens,2000.0,Denver,Colorado,U.S.,11,3,1994,Friday
+2,3,UFC 3: The American Dream,1994-09-09,Grady Cole Center,,Charlotte,North Carolina,U.S.,9,9,1994,Friday
+3,4,UFC 4: Revenge of the Warriors,1994-12-16,Expo Square Pavilion,5857.0,Tulsa,Oklahoma,U.S.,16,12,1994,Friday
+4,5,UFC 5: The Return of the Beast,1995-04-07,Independence Arena,6000.0,Charlotte,North Carolina,U.S.,7,4,1995,Friday
+5,6,UFC 6: Clash of the Titans,1995-07-14,Casper Events Center,2700.0,Casper,Wyoming,U.S.,14,7,1995,Friday
+6,7,UFC 7: The Brawl in Buffalo,1995-09-08,Buffalo Memorial Auditorium,9000.0,Buffalo,New York,U.S.,8,9,1995,Friday
+7,8,UFC: The Ultimate Ultimate,1995-12-16,Mammoth Gardens,2800.0,Denver,Colorado,U.S.,16,12,1995,Saturday
+8,9,UFC 8: David vs. Goliath,1996-02-16,Coliseo Rubén Rodríguez,13000.0,Bayamón,Puerto Rico,,16,2,1996,Friday
+9,10,UFC 9: Motor City Madness,1996-05-17,Cobo Arena,10000.0,Detroit,Michigan,U.S.,17,5,1996,Friday
+10,11,UFC 10: The Tournament,1996-07-12,Fair Park Arena,4300.0,Birmingham,Alabama,U.S.,12,7,1996,Friday
+11,12,UFC 11: The Proving Ground,1996-09-20,Augusta Civic Center,4500.0,Augusta,Georgia,U.S.,20,9,1996,Friday
+12,13,UFC: The Ultimate Ultimate 2,1996-12-07,Fair Park Arena,6000.0,Birmingham,Alabama,U.S.,7,12,1996,Saturday
+13,14,UFC 12: Judgement Day,1997-02-07,Dothan Civic Center,3100.0,Dothan,Alabama,U.S.,7,2,1997,Friday
+14,15,UFC 13: The Ultimate Force,1997-05-30,Augusta Civic Center,5100.0,Augusta,Georgia,U.S.,30,5,1997,Friday
+15,16,UFC 14: Showdown,1997-07-27,Boutwell Memorial Auditorium,5000.0,Birmingham,Alabama,U.S.,27,7,1997,Sunday
+16,17,UFC 15: Collision Course,1997-10-17,Casino Magic Bay St. Louis,,Bay St. Louis,Mississippi,U.S.,17,10,1997,Friday
+17,18,UFC Japan: Ultimate Japan,1997-12-21,Yokohama Arena,5000.0,Yokohama,Japan,,21,12,1997,Sunday
+18,19,UFC 16: Battle in the Bayou,1998-03-13,Pontchartrain Center,4600.0,New Orleans,Louisiana,U.S.,13,3,1998,Friday
+19,20,UFC 17: Redemption,1998-05-15,Mobile Civic Center,,Mobile,Alabama,U.S.,15,5,1998,Friday
+20,21,UFC Brazil: Ultimate Brazil,1998-10-16,Ginásio da Portuguesa,,São Paulo,Brazil,,16,10,1998,Friday
+21,22,UFC 18: The Road to the Heavyweight Title,1999-01-08,Pontchartrain Center,,New Orleans,Louisiana,U.S.,8,1,1999,Friday
+22,23,UFC 19: Ultimate Young Guns,1999-03-05,Casino Magic Bay St. Louis,,Bay St. Louis,Mississippi,U.S.,5,3,1999,Friday
+23,24,UFC 20: Battle for the Gold,1999-05-07,Boutwell Memorial Auditorium,,Birmingham,Alabama,U.S.,7,5,1999,Friday
+24,25,UFC 21: Return of the Champions,1999-07-16,Five Seasons Events Center,,Cedar Rapids,Iowa,U.S.,16,7,1999,Friday
+25,26,UFC 22: Only One Can be Champion,1999-09-24,Lake Charles Civic Center,,Lake Charles,Louisiana,U.S.,24,9,1999,Friday
+26,27,UFC 23: Ultimate Japan 2,1999-11-19,Tokyo Bay NK Hall,,Chiba,Japan,,19,11,1999,Friday
+27,28,UFC 24: First Defense,2000-03-10,Lake Charles Civic Center,,Lake Charles,Louisiana,U.S.,10,3,2000,Friday
+28,29,UFC 25: Ultimate Japan 3,2000-04-14,Yoyogi National Gymnasium,,Tokyo,Japan,,14,4,2000,Friday
+29,30,UFC 26: Ultimate Field of Dreams,2000-06-09,Five Seasons Events Center,1100.0,Cedar Rapids,Iowa,U.S.,9,6,2000,Friday
+30,31,UFC 27: Ultimate Bad Boyz,2000-09-22,Lakefront Arena,,New Orleans,Louisiana,U.S.,22,9,2000,Friday
+31,32,UFC 28: High Stakes,2000-11-17,Trump Taj Mahal,,Atlantic City,New Jersey,U.S.,17,11,2000,Friday
+32,33,UFC 29: Defense of the Belts,2000-12-16,Differ Ariake Arena,1414.0,Tokyo,Japan,,16,12,2000,Saturday
+33,34,UFC 30: Battle on the Boardwalk,2001-02-23,Trump Taj Mahal,3000.0,Atlantic City,New Jersey,U.S.,23,2,2001,Friday
+34,35,UFC 31: Locked and Loaded,2001-05-04,Trump Taj Mahal,,Atlantic City,New Jersey,U.S.,4,5,2001,Friday
+35,36,UFC 32: Showdown in the Meadowlands,2001-06-29,Continental Airlines Arena,12500.0,East Rutherford,New Jersey,U.S.,29,6,2001,Friday
+36,37,UFC 33: Victory in Vegas,2001-09-28,Mandalay Bay Events Center,9500.0,Las Vegas,Nevada,U.S.,28,9,2001,Friday
+37,38,UFC 34: High Voltage,2001-11-02,MGM Grand Garden Arena,9000.0,Las Vegas,Nevada,U.S.,2,11,2001,Friday
+38,39,UFC 35: Throwdown,2002-01-11,Mohegan Sun Arena,9600.0,Uncasville,Connecticut,U.S.,11,1,2002,Friday
+39,40,UFC 36: Worlds Collide,2002-03-22,MGM Grand Garden Arena,10000.0,Las Vegas,Nevada,U.S.,22,3,2002,Friday
+40,41,UFC 37: High Impact,2002-05-10,CenturyTel Center,7200.0,Bossier City,Louisiana,U.S.,10,5,2002,Friday
+41,42,UFC 37.5: As Real As It Gets,2002-06-22,Bellagio,3700.0,Las Vegas,Nevada,U.S.,22,6,2002,Saturday
+42,43,UFC 38: Brawl at the Hall,2002-07-13,Royal Albert Hall,5000.0,London,England,U.K.,13,7,2002,Saturday
+43,44,UFC 39: The Warriors Return,2002-09-27,Mohegan Sun Arena,7800.0,Uncasville,Connecticut,U.S.,27,9,2002,Friday
+44,45,UFC 40: Vendetta,2002-11-22,MGM Grand Garden Arena,13770.0,Las Vegas,Nevada,U.S.,22,11,2002,Friday
+45,46,UFC 41: Onslaught,2003-02-28,Boardwalk Hall,11707.0,Atlantic City,New Jersey,U.S.,28,2,2003,Friday
+46,47,UFC 42: Sudden Impact,2003-04-25,AmericanAirlines Arena,7500.0,Miami,Florida,U.S.,25,4,2003,Friday
+47,48,UFC 43: Meltdown,2003-06-06,Thomas & Mack Center,9800.0,Las Vegas,Nevada,U.S.,6,6,2003,Friday
+48,49,UFC 44: Undisputed,2003-09-26,Mandalay Bay Events Center,10400.0,Las Vegas,Nevada,U.S.,26,9,2003,Friday
+49,50,UFC 45: Revolution,2003-11-21,Mohegan Sun Arena,9200.0,Uncasville,Connecticut,U.S.,21,11,2003,Friday
+50,51,UFC 46: Supernatural,2004-01-31,Mandalay Bay Events Center,10700.0,Las Vegas,Nevada,U.S.,31,1,2004,Saturday
+51,52,UFC 47: It's On!,2004-04-02,Mandalay Bay Events Center,11437.0,Las Vegas,Nevada,U.S.,2,4,2004,Friday
+52,53,UFC 48: Payback,2004-06-19,Mandalay Bay Events Center,10000.0,Las Vegas,Nevada,U.S.,19,6,2004,Saturday
+53,54,UFC 49: Unfinished Business,2004-08-21,MGM Grand Garden Arena,12100.0,Las Vegas,Nevada,U.S.,21,8,2004,Saturday
+54,55,UFC 50: The War of '04,2004-10-22,Boardwalk Hall,9000.0,Atlantic City,New Jersey,U.S.,22,10,2004,Friday
+55,56,UFC 51: Super Saturday,2005-02-05,Mandalay Bay Events Center,11072.0,Las Vegas,Nevada,U.S.,5,2,2005,Saturday
+56,57,The Ultimate Fighter: Team Couture vs. Team Liddell Finale,2005-04-09,Cox Pavilion,,Las Vegas,Nevada,U.S.,9,4,2005,Saturday
+57,58,UFC 52: Couture vs. Liddell,2005-04-16,MGM Grand Garden Arena,14562.0,Las Vegas,Nevada,U.S.,16,4,2005,Saturday
+58,59,UFC 53: Heavy Hitters,2005-06-04,Boardwalk Hall,12000.0,Atlantic City,New Jersey,U.S.,4,6,2005,Saturday
+59,60,UFC Ultimate Fight Night,2005-08-06,Cox Pavilion,,Las Vegas,Nevada,U.S.,6,8,2005,Saturday
+60,61,UFC 54: Boiling Point,2005-08-20,MGM Grand Garden Arena,13520.0,Las Vegas,Nevada,U.S.,20,8,2005,Saturday
+61,62,UFC Ultimate Fight Night 2,2005-10-03,Hard Rock Hotel and Casino,,Las Vegas,Nevada,U.S.,3,10,2005,Monday
+62,63,UFC 55: Fury,2005-10-07,Mohegan Sun Arena,8000.0,Uncasville,Connecticut,U.S.,7,10,2005,Friday
+63,64,The Ultimate Fighter: Team Hughes vs. Team Franklin Finale,2005-11-05,Hard Rock Hotel and Casino,,Las Vegas,Nevada,U.S.,5,11,2005,Saturday
+64,65,UFC 56: Full Force,2005-11-19,MGM Grand Garden Arena,12000.0,Las Vegas,Nevada,U.S.,19,11,2005,Saturday
+65,66,UFC Ultimate Fight Night 3,2006-01-16,Hard Rock Hotel and Casino,1008.0,Las Vegas,Nevada,U.S.,16,1,2006,Monday
+66,67,UFC 57: Liddell vs. Couture 3,2006-02-04,Mandalay Bay Events Center,10659.0,Las Vegas,Nevada,U.S.,4,2,2006,Saturday
+67,68,UFC 58: USA vs. Canada,2006-03-04,Mandalay Bay Events Center,9569.0,Las Vegas,Nevada,U.S.,4,3,2006,Saturday
+68,69,UFC Ultimate Fight Night 4,2006-04-06,Hard Rock Hotel and Casino,843.0,Las Vegas,Nevada,U.S.,6,4,2006,Thursday
+69,70,UFC 59: Reality Check,2006-04-15,Arrowhead Pond of Anaheim,13814.0,Anaheim,California,U.S.,15,4,2006,Saturday
+70,71,UFC 60: Hughes vs. Gracie,2006-05-27,Staples Center,14765.0,Los Angeles,California,U.S.,27,5,2006,Saturday
+71,72,The Ultimate Fighter: Team Ortiz vs. Team Shamrock Finale,2006-06-24,Hard Rock Hotel and Casino,849.0,Las Vegas,Nevada,U.S.,24,6,2006,Saturday
+72,73,UFC Ultimate Fight Night 5,2006-06-28,Hard Rock Hotel and Casino,606.0,Las Vegas,Nevada,U.S.,28,6,2006,Wednesday
+73,74,UFC 61: Bitter Rivals,2006-07-08,Mandalay Bay Events Center,11167.0,Las Vegas,Nevada,U.S.,8,7,2006,Saturday
+74,75,UFC Fight Night 6,2006-08-17,Red Rock Resort Spa and Casino,1412.0,Summerlin,Nevada,U.S.,17,8,2006,Thursday
+75,76,UFC 62: Liddell vs. Sobral,2006-08-26,Mandalay Bay Events Center,10503.0,Las Vegas,Nevada,U.S.,26,8,2006,Saturday
+76,77,UFC 63: Hughes vs. Penn,2006-09-23,Arrowhead Pond of Anaheim,12604.0,Anaheim,California,U.S.,23,9,2006,Saturday
+77,78,UFC Fight Night 6.5,2006-10-10,Seminole Hard Rock Hotel and Casino,3510.0,Hollywood,Florida,U.S.,10,10,2006,Tuesday
+78,79,UFC 64: Unstoppable,2006-10-14,Mandalay Bay Events Center,10173.0,Las Vegas,Nevada,U.S.,14,10,2006,Saturday
+79,80,The Ultimate Fighter: The Comeback Finale,2006-11-11,Hard Rock Hotel and Casino,1000.0,Las Vegas,Nevada,U.S.,11,11,2006,Saturday
+80,81,UFC 65: Bad Intentions,2006-11-18,ARCO Arena,14666.0,Sacramento,California,U.S.,18,11,2006,Saturday
+81,82,UFC Fight Night: Sanchez vs. Riggs,2006-12-13,Marine Corps Air Station Miramar,3000.0,San Diego,California,U.S.,13,12,2006,Wednesday
+82,83,UFC 66: Liddell vs. Ortiz,2006-12-30,MGM Grand Garden Arena,13671.0,Las Vegas,Nevada,U.S.,30,12,2006,Saturday
+83,84,UFC Fight Night: Evans vs. Salmon,2007-01-25,Seminole Hard Rock Hotel and Casino,5287.0,Hollywood,Florida,U.S.,25,1,2007,Thursday
+84,85,UFC 67: All or Nothing,2007-02-03,Mandalay Bay Events Center,10787.0,Las Vegas,Nevada,U.S.,3,2,2007,Saturday
+85,86,UFC 68: The Uprising,2007-03-03,Nationwide Arena,19079.0,Columbus,Ohio,U.S.,3,3,2007,Saturday
+86,87,UFC Fight Night: Stevenson vs. Guillard,2007-04-05,Palms Casino Resort,1734.0,Las Vegas,Nevada,U.S.,5,4,2007,Thursday
+87,88,UFC 69: Shootout,2007-04-07,Toyota Center,15269.0,Houston,Texas,U.S.,7,4,2007,Saturday
+88,89,UFC 70: Nations Collide,2007-04-21,Manchester Evening News Arena,15114.0,Manchester,England,U.K.,21,4,2007,Saturday
+89,90,UFC 71: Liddell vs. Jackson,2007-05-26,MGM Grand Garden Arena,14728.0,Las Vegas,Nevada,U.S.,26,5,2007,Saturday
+90,91,UFC Fight Night: Stout vs. Fisher,2007-06-12,Seminole Hard Rock Hotel and Casino,,Hollywood,Florida,U.S.,12,6,2007,Tuesday
+91,92,UFC 72: Victory,2007-06-16,The Odyssey,7850.0,Belfast,Northern Ireland,U.K.,16,6,2007,Saturday
+92,93,The Ultimate Fighter: Team Pulver vs. Team Penn Finale,2007-06-23,Palms Casino Resort,,Las Vegas,Nevada,U.S.,23,6,2007,Saturday
+93,94,UFC 73: Stacked,2007-07-07,ARCO Arena,13183.0,Sacramento,California,U.S.,7,7,2007,Saturday
+94,95,UFC 74: Respect,2007-08-25,Mandalay Bay Events Center,11065.0,Las Vegas,Nevada,U.S.,25,8,2007,Saturday
+95,96,UFC 75: Champion vs. Champion,2007-09-08,The O2 arena,16235.0,London,England,U.K.,8,9,2007,Saturday
+96,97,UFC Fight Night: Thomas vs. Florian,2007-09-19,Palms Casino Resort,,Las Vegas,Nevada,U.S.,19,9,2007,Wednesday
+97,98,UFC 76: Knockout,2007-09-22,Honda Center,13770.0,Anaheim,California,U.S.,22,9,2007,Saturday
+98,99,UFC 77: Hostile Territory,2007-10-20,U.S. Bank Arena,16054.0,Cincinnati,Ohio,U.S.,20,10,2007,Saturday
+99,100,UFC 78: Validation,2007-11-17,Prudential Center,14071.0,Newark,New Jersey,U.S.,17,11,2007,Saturday
+100,101,The Ultimate Fighter: Team Hughes vs. Team Serra Finale,2007-12-08,Palms Casino Resort,,Las Vegas,Nevada,U.S.,8,12,2007,Saturday
+101,102,UFC 79: Nemesis,2007-12-29,Mandalay Bay Events Center,11075.0,Las Vegas,Nevada,U.S.,29,12,2007,Saturday
+102,103,UFC 80: Rapid Fire,2008-01-19,Metro Radio Arena,8412.0,Newcastle upon Tyne,England,U.K.,19,1,2008,Saturday
+103,104,UFC Fight Night: Swick vs. Burkman,2008-01-23,Palms Casino Resort,1900.0,Las Vegas,Nevada,U.S.,23,1,2008,Wednesday
+104,105,UFC 81: Breaking Point,2008-02-02,Mandalay Bay Events Center,10583.0,Las Vegas,Nevada,U.S.,2,2,2008,Saturday
+105,106,UFC 82: Pride of a Champion,2008-03-01,Nationwide Arena,16431.0,Columbus,Ohio,U.S.,1,3,2008,Saturday
+106,107,UFC Fight Night: Florian vs. Lauzon,2008-04-02,Broomfield Event Center,6742.0,Broomfield,Colorado,U.S.,2,4,2008,Wednesday
+107,108,UFC 83: Serra vs. St-Pierre 2,2008-04-19,Bell Centre,21390.0,Montreal,Quebec,Canada,19,4,2008,Saturday
+108,109,UFC 84: Ill Will,2008-05-24,MGM Grand Garden Arena,14773.0,Las Vegas,Nevada,U.S.,24,5,2008,Saturday
+109,110,UFC 85: Bedlam,2008-06-07,The O2 arena,15327.0,London,England,U.K.,7,6,2008,Saturday
+110,111,The Ultimate Fighter: Team Rampage vs. Team Forrest Finale,2008-06-21,Palms Casino Resort,1853.0,Las Vegas,Nevada,U.S.,21,6,2008,Saturday
+111,112,UFC 86: Jackson vs. Griffin,2008-07-05,Mandalay Bay Events Center,10990.0,Las Vegas,Nevada,U.S.,5,7,2008,Saturday
+112,113,UFC Fight Night: Silva vs. Irvin,2008-07-19,Palms Casino Resort,2071.0,Las Vegas,Nevada,U.S.,19,7,2008,Saturday
+113,114,UFC 87: Seek and Destroy,2008-08-09,Target Center,15087.0,Minneapolis,Minnesota,U.S.,9,8,2008,Saturday
+114,115,UFC 88: Breakthrough,2008-09-06,Philips Arena,14736.0,Atlanta,Georgia,U.S.,6,9,2008,Saturday
+115,116,UFC Fight Night: Diaz vs. Neer,2008-09-17,Omaha Civic Auditorium,9103.0,Omaha,Nebraska,U.S.,17,9,2008,Wednesday
+116,117,UFC 89: Bisping vs. Leben,2008-10-18,National Indoor Arena,9515.0,Birmingham,England,U.K.,18,10,2008,Saturday
+117,118,UFC 90: Silva vs. Côté,2008-10-25,Allstate Arena,15359.0,Rosemont,Illinois,U.S.,25,10,2008,Saturday
+118,119,UFC 91: Couture vs. Lesnar,2008-11-15,MGM Grand Garden Arena,14272.0,Las Vegas,Nevada,U.S.,15,11,2008,Saturday
+119,120,UFC: Fight for the Troops,2008-12-10,Crown Coliseum,8500.0,Fayetteville,North Carolina,U.S.,10,12,2008,Wednesday
+120,121,The Ultimate Fighter: Team Nogueira vs. Team Mir Finale,2008-12-13,Palms Casino Resort,1853.0,Las Vegas,Nevada,U.S.,13,12,2008,Saturday
+121,122,UFC 92: The Ultimate 2008,2008-12-27,MGM Grand Garden Arena,14166.0,Las Vegas,Nevada,U.S.,27,12,2008,Saturday
+122,123,UFC 93: Franklin vs. Henderson,2009-01-17,The O2,9369.0,Dublin,Ireland,,17,1,2009,Saturday
+123,124,UFC 94: St-Pierre vs. Penn 2,2009-01-31,MGM Grand Garden Arena,14885.0,Las Vegas,Nevada,U.S.,31,1,2009,Saturday
+124,125,UFC Fight Night: Lauzon vs. Stephens,2009-02-07,USF Sun Dome,7596.0,Tampa,Florida,U.S.,7,2,2009,Saturday
+125,126,UFC 95: Sanchez vs. Stevenson,2009-02-21,The O2 arena,13268.0,London,England,U.K.,21,2,2009,Saturday
+126,127,UFC 96: Jackson vs. Jardine,2009-03-07,Nationwide Arena,17033.0,Columbus,Ohio,U.S.,7,3,2009,Saturday
+127,128,UFC Fight Night: Condit vs. Kampmann,2009-04-01,Sommet Center,10267.0,Nashville,Tennessee,U.S.,1,4,2009,Wednesday
+128,129,UFC 97: Redemption,2009-04-18,Bell Centre,21451.0,Montreal,Quebec,Canada,18,4,2009,Saturday
+129,130,UFC 98: Evans vs. Machida,2009-05-23,MGM Grand Garden Arena,12606.0,Las Vegas,Nevada,U.S.,23,5,2009,Saturday
+130,131,UFC 99: The Comeback,2009-06-13,Lanxess Arena,12854.0,Cologne,Germany,,13,6,2009,Saturday
+131,132,The Ultimate Fighter: United States vs. United Kingdom Finale,2009-06-20,Palms Casino Resort,2217.0,Las Vegas,Nevada,U.S.,20,6,2009,Saturday
+132,133,UFC 100,2009-07-11,Mandalay Bay Events Center,10871.0,Las Vegas,Nevada,U.S.,11,7,2009,Saturday
+133,134,UFC 101: Declaration,2009-08-08,Wachovia Center,17411.0,Philadelphia,Pennsylvania,U.S.,8,8,2009,Saturday
+134,135,UFC 102: Couture vs. Nogueira,2009-08-29,Rose Garden,16088.0,Portland,Oregon,U.S.,29,8,2009,Saturday
+135,136,UFC Fight Night: Diaz vs. Guillard,2009-09-16,Cox Convention Center,9490.0,Oklahoma City,Oklahoma,U.S.,16,9,2009,Wednesday
+136,137,UFC 103: Franklin vs. Belfort,2009-09-19,American Airlines Center,17428.0,Dallas,Texas,U.S.,19,9,2009,Saturday
+137,138,UFC 104: Machida vs. Shogun,2009-10-24,Staples Center,14892.0,Los Angeles,California,U.S.,24,10,2009,Saturday
+138,139,UFC 105: Couture vs. Vera,2009-11-14,Manchester Evening News Arena,16693.0,Manchester,England,U.K.,14,11,2009,Saturday
+139,140,UFC 106: Ortiz vs. Griffin 2,2009-11-21,Mandalay Bay Events Center,10529.0,Las Vegas,Nevada,U.S.,21,11,2009,Saturday
+140,141,The Ultimate Fighter: Heavyweights Finale,2009-12-05,Palms Casino Resort,1791.0,Las Vegas,Nevada,U.S.,5,12,2009,Saturday
+141,142,UFC 107: Penn vs. Sanchez,2009-12-12,FedExForum,13896.0,Memphis,Tennessee,U.S.,12,12,2009,Saturday
+142,143,UFC 108: Evans vs. Silva,2010-01-02,MGM Grand Garden Arena,13529.0,Las Vegas,Nevada,U.S.,2,1,2010,Saturday
+143,144,UFC Fight Night: Maynard vs. Diaz,2010-01-11,Patriot Center,8078.0,Fairfax,Virginia,U.S.,11,1,2010,Monday
+144,145,UFC 109: Relentless,2010-02-06,Mandalay Bay Events Center,10753.0,Las Vegas,Nevada,U.S.,6,2,2010,Saturday
+145,146,UFC 110: Nogueira vs. Velasquez,2010-02-21,Acer Arena,17831.0,Sydney,Australia,,21,2,2010,Sunday
+146,147,UFC Live: Vera vs. Jones,2010-03-21,1stBank Center,6443.0,Broomfield,Colorado,U.S.,21,3,2010,Sunday
+147,148,UFC 111: St-Pierre vs. Hardy,2010-03-27,Prudential Center,17000.0,Newark,New Jersey,U.S.,27,3,2010,Saturday
+148,149,UFC Fight Night: Florian vs. Gomi,2010-03-31,Bojangles Coliseum,7700.0,Charlotte,North Carolina,U.S.,31,3,2010,Wednesday
+149,150,UFC 112: Invincible,2010-04-10,"Concert Arena, Yas Island",11008.0,Abu Dhabi,United Arab Emirates,,10,4,2010,Saturday
+150,151,UFC 113: Machida vs. Shogun 2,2010-05-08,Bell Centre,17647.0,Montreal,Quebec,Canada,8,5,2010,Saturday
+151,152,UFC 114: Rampage vs. Evans,2010-05-29,MGM Grand Garden Arena,14996.0,Las Vegas,Nevada,U.S.,29,5,2010,Saturday
+152,153,UFC 115: Liddell vs. Franklin,2010-06-12,General Motors Place,17669.0,Vancouver,British Columbia,Canada,12,6,2010,Saturday
+153,154,The Ultimate Fighter: Team Liddell vs. Team Ortiz Finale,2010-06-19,Palms Casino Resort,1708.0,Las Vegas,Nevada,U.S.,19,6,2010,Saturday
+154,155,UFC 116: Lesnar vs. Carwin,2010-07-03,MGM Grand Garden Arena,12740.0,Las Vegas,Nevada,U.S.,3,7,2010,Saturday
+155,156,UFC Live: Jones vs. Matyushenko,2010-08-01,San Diego Sports Arena,8132.0,San Diego,California,U.S.,1,8,2010,Sunday
+156,157,UFC 117: Silva vs. Sonnen,2010-08-07,Oracle Arena,12971.0,Oakland,California,U.S.,7,8,2010,Saturday
+157,158,UFC 118: Edgar vs. Penn 2,2010-08-28,TD Garden,14168.0,Boston,Massachusetts,U.S.,28,8,2010,Saturday
+158,159,UFC Fight Night: Marquardt vs. Palhares,2010-09-15,Frank Erwin Center,7724.0,Austin,Texas,U.S.,15,9,2010,Wednesday
+159,160,UFC 119: Mir vs. Cro Cop,2010-09-25,Conseco Fieldhouse,15811.0,Indianapolis,Indiana,U.S.,25,9,2010,Saturday
+160,161,UFC 120: Bisping vs. Akiyama,2010-10-16,The O2 arena,17133.0,London,England,U.K.,16,10,2010,Saturday
+161,162,UFC 121: Lesnar vs. Velasquez,2010-10-23,Honda Center,14856.0,Anaheim,California,U.S.,23,10,2010,Saturday
+162,163,UFC 122: Marquardt vs. Okami,2010-11-13,König Pilsener Arena,8421.0,Oberhausen,Germany,,13,11,2010,Saturday
+163,164,UFC 123: Rampage vs. Machida,2010-11-20,The Palace of Auburn Hills,16404.0,Auburn Hills,Michigan,U.S.,20,11,2010,Saturday
+164,165,The Ultimate Fighter: Team GSP vs. Team Koscheck Finale,2010-12-04,Palms Casino Resort,1903.0,Las Vegas,Nevada,U.S.,4,12,2010,Saturday
+165,166,UFC 124: St-Pierre vs. Koscheck 2,2010-12-11,Bell Centre,23152.0,Montreal,Quebec,Canada,11,12,2010,Saturday
+166,167,UFC 125: Resolution,2011-01-01,MGM Grand Garden Arena,12874.0,Las Vegas,Nevada,U.S.,1,1,2011,Saturday
+167,168,UFC: Fight for the Troops 2,2011-01-22,Fort Hood,3200.0,Fort Hood,Texas,U.S.,22,1,2011,Saturday
+168,169,UFC 126: Silva vs. Belfort,2011-02-05,Mandalay Bay Events Center,10893.0,Las Vegas,Nevada,U.S.,5,2,2011,Saturday
+169,170,UFC 127: Penn vs. Fitch,2011-02-27,Acer Arena,18186.0,Sydney,Australia,,27,2,2011,Sunday
+170,171,UFC Live: Sanchez vs. Kampmann,2011-03-03,KFC Yum! Center,8319.0,Louisville,Kentucky,U.S.,3,3,2011,Thursday
+171,172,UFC 128: Shogun vs. Jones,2011-03-19,Prudential Center,12619.0,Newark,New Jersey,U.S.,19,3,2011,Saturday
+172,173,UFC Fight Night: Nogueira vs. Davis,2011-03-26,KeyArena,13741.0,Seattle,Washington,U.S.,26,3,2011,Saturday
+173,174,UFC 129: St-Pierre vs. Shields,2011-04-30,Rogers Centre,55724.0,Toronto,Ontario,Canada,30,4,2011,Saturday
+174,175,UFC 130: Rampage vs. Hamill,2011-05-28,MGM Grand Garden Arena,12753.0,Las Vegas,Nevada,U.S.,28,5,2011,Saturday
+175,176,The Ultimate Fighter: Team Lesnar vs. Team dos Santos Finale,2011-06-04,Palms Casino Resort,2053.0,Las Vegas,Nevada,U.S.,4,6,2011,Saturday
+176,177,UFC 131: dos Santos vs. Carwin,2011-06-11,Rogers Arena,14685.0,Vancouver,British Columbia,Canada,11,6,2011,Saturday
+177,178,UFC Live: Kongo vs. Barry,2011-06-26,Consol Energy Center,7792.0,Pittsburgh,Pennsylvania,U.S.,26,6,2011,Sunday
+178,179,UFC 132: Cruz vs. Faber,2011-07-02,MGM Grand Garden Arena,13109.0,Las Vegas,Nevada,U.S.,2,7,2011,Saturday
+179,180,UFC 133: Evans vs. Ortiz,2011-08-06,Wells Fargo Center,11583.0,Philadelphia,Pennsylvania,U.S.,6,8,2011,Saturday
+180,181,UFC Live: Hardy vs. Lytle,2011-08-14,Bradley Center,6751.0,Milwaukee,Wisconsin,U.S.,14,8,2011,Sunday
+181,182,UFC 134: Silva vs. Okami,2011-08-27,HSBC Arena,14000.0,Rio de Janeiro,Brazil,,27,8,2011,Saturday
+182,183,UFC Fight Night: Shields vs. Ellenberger,2011-09-17,Ernest N. Morial Convention Center,7112.0,New Orleans,Louisiana,U.S.,17,9,2011,Saturday
+183,184,UFC 135: Jones vs. Rampage,2011-09-24,Pepsi Center,16344.0,Denver,Colorado,U.S.,24,9,2011,Saturday
+184,185,UFC Live: Cruz vs. Johnson,2011-10-01,Verizon Center,9380.0,Washington,D.C.,U.S.,1,10,2011,Saturday
+185,186,UFC 136: Edgar vs. Maynard III,2011-10-08,Toyota Center,16164.0,Houston,Texas,U.S.,8,10,2011,Saturday
+186,187,UFC 137: Penn vs. Diaz,2011-10-29,Mandalay Bay Events Center,10313.0,Las Vegas,Nevada,U.S.,29,10,2011,Saturday
+187,188,UFC 138: Leben vs. Muñoz,2011-11-05,LG Arena,10823.0,Birmingham,England,U.K.,5,11,2011,Saturday
+188,189,UFC on Fox: Velasquez vs. dos Santos,2011-11-12,Honda Center,11607.0,Anaheim,California,U.S.,12,11,2011,Saturday
+189,190,UFC 139: Shogun vs. Henderson,2011-11-19,HP Pavilion,13832.0,San Jose,California,U.S.,19,11,2011,Saturday
+190,191,The Ultimate Fighter: Team Bisping vs. Team Miller Finale,2011-12-03,Palms Casino Resort,1909.0,Las Vegas,Nevada,U.S.,3,12,2011,Saturday
+191,192,UFC 140: Jones vs. Machida,2011-12-10,Air Canada Centre,18303.0,Toronto,Ontario,Canada,10,12,2011,Saturday
+192,193,UFC 141: Lesnar vs. Overeem,2011-12-30,MGM Grand Garden Arena,13793.0,Las Vegas,Nevada,U.S.,30,12,2011,Friday
+193,194,UFC 142: Aldo vs. Mendes,2012-01-14,HSBC Arena,10605.0,Rio de Janeiro,Brazil,,14,1,2012,Saturday
+194,195,UFC on FX: Guillard vs. Miller,2012-01-20,Bridgestone Arena,7728.0,Nashville,Tennessee,U.S.,20,1,2012,Friday
+195,196,UFC on Fox: Evans vs. Davis,2012-01-28,United Center,16963.0,Chicago,Illinois,U.S.,28,1,2012,Saturday
+196,197,UFC 143: Diaz vs. Condit,2012-02-04,Mandalay Bay Events Center,9015.0,Las Vegas,Nevada,U.S.,4,2,2012,Saturday
+197,198,UFC on Fuel TV: Sanchez vs. Ellenberger,2012-02-15,Omaha Civic Auditorium,6283.0,Omaha,Nebraska,U.S.,15,2,2012,Wednesday
+198,199,UFC 144: Edgar vs. Henderson,2012-02-26,Saitama Super Arena,21000.0,Saitama,Japan,,26,2,2012,Sunday
+199,200,UFC on FX: Alves vs. Kampmann,2012-03-03,Allphones Arena,14537.0,Sydney,Australia,,3,3,2012,Saturday
+200,201,UFC on Fuel TV: Gustafsson vs. Silva,2012-04-14,Ericsson Globe Arena,15428.0,Stockholm,Sweden,,14,4,2012,Saturday
+201,202,UFC 145: Jones vs. Evans,2012-04-21,Philips Arena,15545.0,Atlanta,Georgia,U.S.,21,4,2012,Saturday
+202,203,UFC on Fox: Diaz vs. Miller,2012-05-05,IZOD Center,10788.0,East Rutherford,New Jersey,U.S.,5,5,2012,Saturday
+203,204,UFC on Fuel TV: The Korean Zombie vs. Poirier,2012-05-15,Patriot Center,6668.0,Fairfax,Virginia,U.S.,15,5,2012,Tuesday
+204,205,UFC 146: dos Santos vs. Mir,2012-05-26,MGM Grand Garden Arena,14674.0,Las Vegas,Nevada,U.S.,26,5,2012,Saturday
+205,206,The Ultimate Fighter: Live Finale,2012-06-01,Palms Casino Resort,1628.0,Las Vegas,Nevada,U.S.,1,6,2012,Friday
+206,207,UFC on FX: Johnson vs. McCall 2,2012-06-08,BankAtlantic Center,6635.0,Sunrise,Florida,U.S.,8,6,2012,Friday
+207,208,UFC on FX: Maynard vs. Guida,2012-06-22,Revel Casino Hotel,4652.0,Atlantic City,New Jersey,U.S.,22,6,2012,Friday
+208,209,UFC 147: Silva vs. Franklin II,2012-06-23,Mineirinho Arena,16643.0,Belo Horizonte,Brazil,,23,6,2012,Saturday
+209,210,UFC 148: Silva vs. Sonnen II,2012-07-07,MGM Grand Garden Arena,15104.0,Las Vegas,Nevada,U.S.,7,7,2012,Saturday
+210,211,UFC on Fuel TV: Muñoz vs. Weidman,2012-07-11,HP Pavilion,4250.0,San Jose,California,U.S.,11,7,2012,Wednesday
+211,212,UFC 149: Faber vs. Barão,2012-07-21,Scotiabank Saddledome,16089.0,Calgary,Alberta,Canada,21,7,2012,Saturday
+212,213,UFC on Fox: Shogun vs. Vera,2012-08-04,Staples Center,16080.0,Los Angeles,California,U.S.,4,8,2012,Saturday
+213,214,UFC 150: Henderson vs. Edgar II,2012-08-11,Pepsi Center,13027.0,Denver,Colorado,U.S.,11,8,2012,Saturday
+214,215,UFC 152: Jones vs. Belfort,2012-09-22,Air Canada Centre,16800.0,Toronto,Ontario,Canada,22,9,2012,Saturday
+215,216,UFC on Fuel TV: Struve vs. Miocic,2012-09-29,Capital FM Arena,7241.0,Nottingham,England,U.K.,29,9,2012,Saturday
+216,217,UFC on FX: Browne vs. Bigfoot,2012-10-05,Target Center,7049.0,Minneapolis,Minnesota,U.S.,5,10,2012,Friday
+217,218,UFC 153: Silva vs. Bonnar,2012-10-13,HSBC Arena,16844.0,Rio de Janeiro,Brazil,,13,10,2012,Saturday
+218,219,UFC on Fuel TV: Franklin vs. Le,2012-11-10,CotaiArena,8415.0,Macau,SAR,China,10,11,2012,Saturday
+219,220,UFC 154: St-Pierre vs. Condit,2012-11-17,Bell Centre,17249.0,Montreal,Quebec,Canada,17,11,2012,Saturday
+220,221,UFC on Fox: Henderson vs. Diaz,2012-12-08,KeyArena,14387.0,Seattle,Washington,U.S.,8,12,2012,Saturday
+221,222,UFC on FX: Sotiropoulos vs. Pearson,2012-12-15,Gold Coast Convention and Exhibition Centre,5133.0,Gold Coast,Australia,,15,12,2012,Saturday
+222,223,The Ultimate Fighter: Team Carwin vs. Team Nelson Finale,2012-12-15,Hard Rock Hotel and Casino,2500.0,Las Vegas,Nevada,U.S.,15,12,2012,Saturday
+223,224,UFC 155: dos Santos vs. Velasquez 2,2012-12-29,MGM Grand Garden Arena,13561.0,Las Vegas,Nevada,U.S.,29,12,2012,Saturday
+224,225,UFC on FX: Belfort vs. Bisping,2013-01-19,Ginásio do Ibirapuera,9116.0,São Paulo,Brazil,,19,1,2013,Saturday
+225,226,UFC on Fox: Johnson vs. Dodson,2013-01-26,United Center,16091.0,Chicago,Illinois,U.S.,26,1,2013,Saturday
+226,227,UFC 156: Aldo vs. Edgar,2013-02-02,Mandalay Bay Events Center,10275.0,Las Vegas,Nevada,U.S.,2,2,2013,Saturday
+227,228,UFC on Fuel TV: Barão vs. McDonald,2013-02-16,Wembley Arena,10349.0,London,England,U.K.,16,2,2013,Saturday
+228,229,UFC 157: Rousey vs. Carmouche,2013-02-23,Honda Center,13257.0,Anaheim,California,U.S.,23,2,2013,Saturday
+229,230,UFC on Fuel TV: Silva vs. Stann,2013-03-03,Saitama Super Arena,14682.0,Saitama,Japan,,3,3,2013,Sunday
+230,231,UFC 158: St-Pierre vs. Diaz,2013-03-16,Bell Centre,20145.0,Montreal,Quebec,Canada,16,3,2013,Saturday
+231,232,UFC on Fuel TV: Mousasi vs. Latifi,2013-04-06,Ericsson Globe Arena,14506.0,Stockholm,Sweden,,6,4,2013,Saturday
+232,233,The Ultimate Fighter: Team Jones vs. Team Sonnen Finale,2013-04-13,Mandalay Bay Events Center,5918.0,Las Vegas,Nevada,U.S.,13,4,2013,Saturday
+233,234,UFC on Fox: Henderson vs. Melendez,2013-04-20,HP Pavilion,13506.0,San Jose,California,U.S.,20,4,2013,Saturday
+234,235,UFC 159: Jones vs. Sonnen,2013-04-27,Prudential Center,15227.0,Newark,New Jersey,U.S.,27,4,2013,Saturday
+235,236,UFC on FX: Belfort vs. Rockhold,2013-05-18,Arena Jaraguá,7642.0,Jaraguá do Sul,Brazil,,18,5,2013,Saturday
+236,237,UFC 160: Velasquez vs. Bigfoot 2,2013-05-25,MGM Grand Garden Arena,12380.0,Las Vegas,Nevada,U.S.,25,5,2013,Saturday
+237,238,UFC on Fuel TV: Nogueira vs. Werdum,2013-06-08,Ginásio Paulo Sarasate,6286.0,Fortaleza,Brazil,,8,6,2013,Saturday
+238,239,UFC 161: Evans vs. Henderson,2013-06-15,MTS Centre,14754.0,Winnipeg,Manitoba,Canada,15,6,2013,Saturday
+239,240,UFC 162: Silva vs. Weidman,2013-07-06,MGM Grand Garden Arena,12964.0,Las Vegas,Nevada,U.S.,6,7,2013,Saturday
+240,241,UFC on Fox: Johnson vs. Moraga,2013-07-27,KeyArena,8967.0,Seattle,Washington,U.S.,27,7,2013,Saturday
+241,242,UFC 163: Aldo vs. Korean Zombie,2013-08-03,HSBC Arena,13873.0,Rio de Janeiro,Brazil,,3,8,2013,Saturday
+242,243,UFC Fight Night: Shogun vs. Sonnen,2013-08-17,TD Garden,14181.0,Boston,Massachusetts,U.S.,17,8,2013,Saturday
+243,244,UFC Fight Night: Condit vs. Kampmann 2,2013-08-28,Bankers Life Fieldhouse,6417.0,Indianapolis,Indiana,U.S.,28,8,2013,Wednesday
+244,245,UFC 164: Henderson vs. Pettis,2013-08-31,BMO Harris Bradley Center,9178.0,Milwaukee,Wisconsin,U.S.,31,8,2013,Saturday
+245,246,UFC Fight Night: Teixeira vs. Bader,2013-09-04,Mineirinho Arena,5126.0,Belo Horizonte,Brazil,,4,9,2013,Wednesday
+246,247,UFC 165: Jones vs. Gustafsson,2013-09-21,Air Canada Centre,15504.0,Toronto,Ontario,Canada,21,9,2013,Saturday
+247,248,UFC Fight Night: Maia vs. Shields,2013-10-09,Ginásio José Corrêa,6621.0,Barueri,Brazil,,9,10,2013,Wednesday
+248,249,UFC 166: Velasquez vs. dos Santos III,2013-10-19,Toyota Center,17238.0,Houston,Texas,U.S.,19,10,2013,Saturday
+249,250,UFC Fight Night: Machida vs. Muñoz,2013-10-26,Phones 4u Arena,10355.0,Manchester,England,U.K.,26,10,2013,Saturday
+250,251,UFC: Fight for the Troops 3,2013-11-06,Fort Campbell,,Fort Campbell,Kentucky,U.S.,6,11,2013,Wednesday
+251,252,UFC Fight Night: Belfort vs. Henderson 2,2013-11-09,Goiânia Arena,10565.0,Goiânia,Brazil,,9,11,2013,Saturday
+252,253,UFC 167: St-Pierre vs. Hendricks,2013-11-16,MGM Grand Garden Arena,14856.0,Las Vegas,Nevada,U.S.,16,11,2013,Saturday
+253,254,The Ultimate Fighter: Team Rousey vs. Team Tate Finale,2013-11-30,Mandalay Bay Events Center,4853.0,Las Vegas,Nevada,U.S.,30,11,2013,Saturday
+254,255,UFC Fight Night: Hunt vs. Bigfoot,2013-12-07,Brisbane Entertainment Centre,11393.0,Brisbane,Australia,,7,12,2013,Saturday
+255,256,UFC on Fox: Johnson vs. Benavidez 2,2013-12-14,Sleep Train Arena,11573.0,Sacramento,California,U.S.,14,12,2013,Saturday
+256,257,UFC 168: Weidman vs. Silva 2,2013-12-28,MGM Grand Garden Arena,15650.0,Las Vegas,Nevada,U.S.,28,12,2013,Saturday
+257,258,UFC Fight Night: Saffiedine vs. Lim,2014-01-04,Marina Bay Sands,5216.0,Marina Bay,Singapore,,4,1,2014,Saturday
+258,259,UFC Fight Night: Rockhold vs. Philippou,2014-01-15,Arena at Gwinnett Center,5822.0,Duluth,Georgia,U.S.,15,1,2014,Wednesday
+259,260,UFC on Fox: Henderson vs. Thomson,2014-01-25,United Center,10895.0,Chicago,Illinois,U.S.,25,1,2014,Saturday
+260,261,UFC 169: Barão vs. Faber 2,2014-02-01,Prudential Center,14308.0,Newark,New Jersey,U.S.,1,2,2014,Saturday
+261,262,UFC Fight Night: Machida vs. Mousasi,2014-02-15,Arena Jaraguá,7511.0,Jaraguá do Sul,Brazil,,15,2,2014,Saturday
+262,263,UFC 170: Rousey vs. McMann,2014-02-22,Mandalay Bay Events Center,10217.0,Las Vegas,Nevada,U.S.,22,2,2014,Saturday
+263,264,The Ultimate Fighter China Finale: Kim vs. Hathaway,2014-03-01,CotaiArena,6000.0,Macau,SAR,China,1,3,2014,Saturday
+264,265,UFC Fight Night: Gustafsson vs. Manuwa,2014-03-08,The O2 Arena,14604.0,London,England,U.K.,8,3,2014,Saturday
+265,266,UFC 171: Hendricks vs. Lawler,2014-03-15,American Airlines Center,19324.0,Dallas,Texas,U.S.,15,3,2014,Saturday
+266,267,UFC Fight Night: Shogun vs. Henderson 2,2014-03-23,Ginásio Nélio Dias,6828.0,Natal,Brazil,,23,3,2014,Sunday
+267,268,UFC Fight Night: Nogueira vs. Nelson,2014-04-11,du Arena,7963.0,Abu Dhabi,United Arab Emirates,,11,4,2014,Friday
+268,269,The Ultimate Fighter Nations Finale: Bisping vs. Kennedy,2014-04-16,Colisée Pepsi,5029.0,Quebec City,Quebec,Canada,16,4,2014,Wednesday
+269,270,UFC on Fox: Werdum vs. Browne,2014-04-19,Amway Center,17000.0,Orlando,Florida,U.S.,19,4,2014,Saturday
+270,271,UFC 172: Jones vs. Teixeira,2014-04-26,Baltimore Arena,13485.0,Baltimore,Maryland,U.S.,26,4,2014,Saturday
+271,272,UFC Fight Night: Brown vs. Silva,2014-05-10,U.S. Bank Arena,6143.0,Cincinnati,Ohio,U.S.,10,5,2014,Saturday
+272,273,UFC 173: Barão vs. Dillashaw,2014-05-24,MGM Grand Garden Arena,11036.0,Las Vegas,Nevada,U.S.,24,5,2014,Saturday
+273,274,UFC Fight Night: Muñoz vs. Mousasi,2014-05-31,O2 World,8000.0,Berlin,Germany,,31,5,2014,Saturday
+274,275,The Ultimate Fighter Brazil 3 Finale: Miocic vs. Maldonado,2014-05-31,Ginásio do Ibirapuera,8986.0,São Paulo,Brazil,,31,5,2014,Saturday
+275,276,UFC Fight Night: Henderson vs. Khabilov,2014-06-07,Tingley Coliseum,8775.0,Albuquerque,New Mexico,U.S.,7,6,2014,Saturday
+276,277,UFC 174: Johnson vs. Bagautinov,2014-06-14,Rogers Arena,13506.0,Vancouver,British Columbia,Canada,14,6,2014,Saturday
+277,278,UFC Fight Night: Te Huna vs. Marquardt,2014-06-28,Vector Arena,8089.0,Auckland,New Zealand,,28,6,2014,Saturday
+278,279,UFC Fight Night: Swanson vs. Stephens,2014-06-28,AT&T Center,9227.0,San Antonio,Texas,U.S.,28,6,2014,Saturday
+279,280,UFC 175: Weidman vs. Machida,2014-07-05,Mandalay Bay Events Center,10088.0,Las Vegas,Nevada,U.S.,5,7,2014,Saturday
+280,281,The Ultimate Fighter: Team Edgar vs. Team Penn Finale,2014-07-06,Mandalay Bay Events Center,6500.0,Las Vegas,Nevada,U.S.,6,7,2014,Sunday
+281,282,UFC Fight Night: Cowboy vs. Miller,2014-07-16,Revel Casino Hotel,4115.0,Atlantic City,New Jersey,U.S.,16,7,2014,Wednesday
+282,283,UFC Fight Night: McGregor vs. Brandão,2014-07-19,The O2,9500.0,Dublin,Ireland,,19,7,2014,Saturday
+283,284,UFC on Fox: Lawler vs. Brown,2014-07-26,SAP Center,11482.0,San Jose,California,U.S.,26,7,2014,Saturday
+284,285,UFC Fight Night: Bader vs. Saint Preux,2014-08-16,Cross Insurance Center,5329.0,Bangor,Maine,U.S.,16,8,2014,Saturday
+285,286,UFC Fight Night: Bisping vs. Le,2014-08-23,CotaiArena,7022.0,Macau,SAR,China,23,8,2014,Saturday
+286,287,UFC Fight Night: Henderson vs. dos Anjos,2014-08-23,BOK Center,7119.0,Tulsa,Oklahoma,U.S.,23,8,2014,Saturday
+287,288,UFC 177: Dillashaw vs. Soto,2014-08-30,Sleep Train Arena,11100.0,Sacramento,California,U.S.,30,8,2014,Saturday
+288,289,UFC Fight Night: Jacaré vs. Mousasi,2014-09-05,Foxwoods Resort Casino,4086.0,Mashantucket,Connecticut,U.S.,5,9,2014,Friday
+289,290,UFC Fight Night: Bigfoot vs. Arlovski,2014-09-13,Ginásio Nilson Nelson,8822.0,Brasília,Brazil,,13,9,2014,Saturday
+290,291,UFC Fight Night: Hunt vs. Nelson,2014-09-20,Saitama Super Arena,12395.0,Saitama,Japan,,20,9,2014,Saturday
+291,292,UFC 178: Johnson vs. Cariaso,2014-09-27,MGM Grand Garden Arena,10544.0,Las Vegas,Nevada,U.S.,27,9,2014,Saturday
+292,293,UFC Fight Night: Nelson vs. Story,2014-10-04,Ericsson Globe Arena,10026.0,Stockholm,Sweden,,4,10,2014,Saturday
+293,294,UFC Fight Night: MacDonald vs. Saffiedine,2014-10-04,Scotiabank Centre,10782.0,Halifax,Nova Scotia,Canada,4,10,2014,Saturday
+294,295,UFC 179: Aldo vs. Mendes 2,2014-10-25,Ginásio do Maracanãzinho,11415.0,Rio de Janeiro,Brazil,,25,10,2014,Saturday
+295,296,UFC Fight Night: Rockhold vs. Bisping,2014-11-08,Allphones Arena,9904.0,Sydney,Australia,,8,11,2014,Saturday
+296,297,UFC Fight Night: Shogun vs. Saint Preux,2014-11-08,Ginásio Municipal Tancredo Neves,5671.0,Uberlândia,Brazil,,8,11,2014,Saturday
+297,298,UFC 180: Werdum vs. Hunt,2014-11-15,Arena Ciudad de México,21000.0,Mexico City,Mexico,,15,11,2014,Saturday
+298,299,UFC Fight Night: Edgar vs. Swanson,2014-11-22,Frank Erwin Center,10131.0,Austin,Texas,U.S.,22,11,2014,Saturday
+299,300,UFC 181: Hendricks vs. Lawler II,2014-12-06,Mandalay Bay Events Center,9617.0,Las Vegas,Nevada,U.S.,6,12,2014,Saturday
+300,301,The Ultimate Fighter: A Champion Will Be Crowned Finale,2014-12-12,Palms Casino Resort,1800.0,Las Vegas,Nevada,U.S.,12,12,2014,Friday
+301,302,UFC on Fox: dos Santos vs. Miocic,2014-12-13,U.S. Airways Center,15300.0,Phoenix,Arizona,U.S.,13,12,2014,Saturday
+302,303,UFC Fight Night: Machida vs. Dollaway,2014-12-20,Ginásio José Corrêa,,Barueri,Brazil,,20,12,2014,Saturday
+303,304,UFC 182: Jones vs. Cormier,2015-01-03,MGM Grand Garden Arena,11575.0,Las Vegas,Nevada,U.S.,3,1,2015,Saturday
+304,305,UFC Fight Night: McGregor vs. Siver,2015-01-18,TD Garden,13828.0,Boston,Massachusetts,U.S.,18,1,2015,Sunday
+305,306,UFC on Fox: Gustafsson vs. Johnson,2015-01-24,Tele2 Arena,30000.0,Stockholm,Sweden,,24,1,2015,Saturday
+306,307,UFC 183: Silva vs. Diaz,2015-01-31,MGM Grand Garden Arena,13114.0,Las Vegas,Nevada,U.S.,31,1,2015,Saturday
+307,308,UFC Fight Night: Henderson vs. Thatch,2015-02-14,1stBank Center,5807.0,Broomfield,Colorado,U.S.,14,2,2015,Saturday
+308,309,UFC Fight Night: Bigfoot vs. Mir,2015-02-22,Ginásio Gigantinho,5080.0,Porto Alegre,Brazil,,22,2,2015,Sunday
+309,310,UFC 184: Rousey vs. Zingano,2015-02-28,Staples Center,17654.0,Los Angeles,California,U.S.,28,2,2015,Saturday
+310,311,UFC 185: Pettis vs. dos Anjos,2015-03-14,American Airlines Center,17160.0,Dallas,Texas,U.S.,14,3,2015,Saturday
+311,312,UFC Fight Night: Maia vs. LaFlare,2015-03-21,Ginásio do Maracanãzinho,7707.0,Rio de Janeiro,Brazil,,21,3,2015,Saturday
+312,313,UFC Fight Night: Mendes vs. Lamas,2015-04-04,Patriot Center,5417.0,Fairfax,Virginia,U.S.,4,4,2015,Saturday
+313,314,UFC Fight Night: Gonzaga vs. Cro Cop 2,2015-04-11,Tauron Arena Kraków,10000.0,Kraków,Poland,,11,4,2015,Saturday
+314,315,UFC on Fox: Machida vs. Rockhold,2015-04-18,Prudential Center,13306.0,Newark,New Jersey,U.S.,18,4,2015,Saturday
+315,316,UFC 186: Johnson vs. Horiguchi,2015-04-25,Bell Centre,10154.0,Montreal,Quebec,Canada,25,4,2015,Saturday
+316,317,UFC Fight Night: Miocic vs. Hunt,2015-05-10,Adelaide Entertainment Centre,7984.0,Adelaide,Australia,,10,5,2015,Sunday
+317,318,UFC Fight Night: Edgar vs. Faber,2015-05-16,Mall of Asia Arena,13446.0,Pasay,Philippines,,16,5,2015,Saturday
+318,319,UFC 187: Johnson vs. Cormier,2015-05-23,MGM Grand Garden Arena,12615.0,Las Vegas,Nevada,U.S.,23,5,2015,Saturday
+319,320,UFC Fight Night: Condit vs. Alves,2015-05-30,Goiânia Arena,3500.0,Goiânia,Brazil,,30,5,2015,Saturday
+320,321,UFC Fight Night: Boetsch vs. Henderson,2015-06-06,Smoothie King Center,6231.0,New Orleans,Louisiana,U.S.,6,6,2015,Saturday
+321,322,UFC 188: Velasquez vs. Werdum,2015-06-13,Arena Ciudad de México,21036.0,Mexico City,Mexico,,13,6,2015,Saturday
+322,323,UFC Fight Night: Jędrzejczyk vs. Penne,2015-06-20,O2 World,8155.0,Berlin,Germany,,20,6,2015,Saturday
+323,324,UFC Fight Night: Machida vs. Romero,2015-06-27,Seminole Hard Rock Hotel and Casino,5604.0,Hollywood,Florida,U.S.,27,6,2015,Saturday
+324,325,UFC 189: Mendes vs. McGregor,2015-07-11,MGM Grand Garden Arena,16019.0,Las Vegas,Nevada,U.S.,11,7,2015,Saturday
+325,326,The Ultimate Fighter: American Top Team vs. Blackzilians Finale,2015-07-12,MGM Grand Garden Arena,4844.0,Las Vegas,Nevada,U.S.,12,7,2015,Sunday
+326,327,UFC Fight Night: Mir vs. Duffee,2015-07-15,Valley View Casino Center,5471.0,San Diego,California,U.S.,15,7,2015,Wednesday
+327,328,UFC Fight Night: Bisping vs. Leites,2015-07-18,The SSE Hydro,10451.0,Glasgow,Scotland,U.K.,18,7,2015,Saturday
+328,329,UFC on Fox: Dillashaw vs. Barão 2,2015-07-25,United Center,11663.0,Chicago,Illinois,U.S.,25,7,2015,Saturday
+329,330,UFC 190: Rousey vs. Correia,2015-08-01,HSBC Arena,14723.0,Rio de Janeiro,Brazil,,1,8,2015,Saturday
+330,331,UFC Fight Night: Teixeira vs. Saint Preux,2015-08-08,Bridgestone Arena,7539.0,Nashville,Tennessee,U.S.,8,8,2015,Saturday
+331,332,UFC Fight Night: Holloway vs. Oliveira,2015-08-23,SaskTel Centre,7202.0,Saskatoon,Saskatchewan,Canada,23,8,2015,Sunday
+332,333,UFC 191: Johnson vs. Dodson 2,2015-09-05,MGM Grand Garden Arena,10873.0,Las Vegas,Nevada,U.S.,5,9,2015,Saturday
+333,334,UFC Fight Night: Barnett vs. Nelson,2015-09-27,Saitama Super Arena,10137.0,Saitama,Japan,,27,9,2015,Sunday
+334,335,UFC 192: Cormier vs. Gustafsson,2015-10-03,Toyota Center,14622.0,Houston,Texas,U.S.,3,10,2015,Saturday
+335,336,UFC Fight Night: Holohan vs. Smolka,2015-10-24,3Arena,9500.0,Dublin,Ireland,,24,10,2015,Saturday
+336,337,UFC Fight Night: Belfort vs. Henderson 3,2015-11-07,Ginásio do Ibirapuera,10628.0,São Paulo,Brazil,,7,11,2015,Saturday
+337,338,UFC 193: Rousey vs. Holm,2015-11-15,Etihad Stadium,56214.0,Melbourne,Australia,,15,11,2015,Sunday
+338,339,The Ultimate Fighter Latin America 2 Finale: Magny vs. Gastelum,2015-11-21,Arena Monterrey,10410.0,Monterrey,Mexico,,21,11,2015,Saturday
+339,340,UFC Fight Night: Henderson vs. Masvidal,2015-11-28,Olympic Gymnastics Arena,12156.0,Seoul,South Korea,,28,11,2015,Saturday
+340,341,UFC Fight Night: Namajunas vs. VanZant,2015-12-10,The Chelsea at The Cosmopolitan,1643.0,Las Vegas,Nevada,U.S.,10,12,2015,Thursday
+341,342,The Ultimate Fighter: Team McGregor vs. Team Faber Finale,2015-12-11,The Chelsea at The Cosmopolitan,2566.0,Las Vegas,Nevada,U.S.,11,12,2015,Friday
+342,343,UFC 194: Aldo vs. McGregor,2015-12-12,MGM Grand Garden Arena,16516.0,Las Vegas,Nevada,U.S.,12,12,2015,Saturday
+343,344,UFC on Fox: dos Anjos vs. Cowboy 2,2015-12-19,Amway Center,14459.0,Orlando,Florida,U.S.,19,12,2015,Saturday
+344,345,UFC 195: Lawler vs. Condit,2016-01-02,MGM Grand Garden Arena,10300.0,Las Vegas,Nevada,U.S.,2,1,2016,Saturday
+345,346,UFC Fight Night: Dillashaw vs. Cruz,2016-01-17,TD Garden,12022.0,Boston,Massachusetts,U.S.,17,1,2016,Sunday
+346,347,UFC on Fox: Johnson vs. Bader,2016-01-30,Prudential Center,10555.0,Newark,New Jersey,U.S.,30,1,2016,Saturday
+347,348,UFC Fight Night: Hendricks vs. Thompson,2016-02-06,MGM Grand Garden Arena,7422.0,Las Vegas,Nevada,U.S.,6,2,2016,Saturday
+348,349,UFC Fight Night: Cowboy vs. Cowboy,2016-02-21,Consol Energy Center,7330.0,Pittsburgh,Pennsylvania,U.S.,21,2,2016,Sunday
+349,350,UFC Fight Night: Silva vs. Bisping,2016-02-27,The O2 Arena,16734.0,London,England,U.K.,27,2,2016,Saturday
+350,351,UFC 196: McGregor vs. Diaz,2016-03-05,MGM Grand Garden Arena,14898.0,Las Vegas,Nevada,U.S.,5,3,2016,Saturday
+351,352,UFC Fight Night: Hunt vs. Mir,2016-03-20,Brisbane Entertainment Centre,9552.0,Brisbane,Australia,,20,3,2016,Sunday
+352,353,UFC Fight Night: Rothwell vs. dos Santos,2016-04-10,Arena Zagreb,13177.0,Zagreb,Croatia,,10,4,2016,Sunday
+353,354,UFC on Fox: Teixeira vs. Evans,2016-04-16,Amalie Arena,11273.0,Tampa,Florida,U.S.,16,4,2016,Saturday
+354,355,UFC 197: Jones vs. Saint Preux,2016-04-23,MGM Grand Garden Arena,11352.0,Las Vegas,Nevada,U.S.,23,4,2016,Saturday
+355,356,UFC Fight Night: Overeem vs. Arlovski,2016-05-08,Rotterdam Ahoy,10421.0,Rotterdam,Netherlands,,8,5,2016,Sunday
+356,357,UFC 198: Werdum vs. Miocic,2016-05-14,Arena da Baixada,45207.0,Curitiba,Brazil,,14,5,2016,Saturday
+357,358,UFC Fight Night: Almeida vs. Garbrandt,2016-05-29,Mandalay Bay Events Center,5193.0,Las Vegas,Nevada,U.S.,29,5,2016,Sunday
+358,359,UFC 199: Rockhold vs. Bisping 2,2016-06-04,The Forum,15587.0,Inglewood,California,U.S.,4,6,2016,Saturday
+359,360,UFC Fight Night: MacDonald vs. Thompson,2016-06-18,TD Place Arena,10490.0,Ottawa,Ontario,Canada,18,6,2016,Saturday
+360,361,UFC Fight Night: dos Anjos vs. Alvarez,2016-07-07,MGM Grand Garden Arena,7760.0,Las Vegas,Nevada,U.S,7,7,2016,Thursday
+361,362,The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale,2016-07-08,MGM Grand Garden Arena,8115.0,Las Vegas,Nevada,U.S,8,7,2016,Friday
+362,363,UFC 200: Tate vs. Nunes,2016-07-09,T-Mobile Arena,18202.0,Las Vegas,Nevada,U.S,9,7,2016,Saturday
+363,364,UFC Fight Night: McDonald vs. Lineker,2016-07-13,Denny Sanford Premier Center,5671.0,Sioux Falls,South Dakota,U.S.,13,7,2016,Wednesday
+364,365,UFC on Fox: Holm vs. Shevchenko,2016-07-23,United Center,10287.0,Chicago,Illinois,U.S.,23,7,2016,Saturday
+365,366,UFC 201: Lawler vs. Woodley,2016-07-30,Philips Arena,10240.0,Atlanta,Georgia,U.S.,30,7,2016,Saturday
+366,367,UFC Fight Night: Rodríguez vs. Caceres,2016-08-06,Vivint Smart Home Arena,6689.0,Salt Lake City,Utah,U.S.,6,8,2016,Saturday
+367,368,UFC 202: Diaz vs. McGregor 2,2016-08-20,T-Mobile Arena,15539.0,Las Vegas,Nevada,U.S,20,8,2016,Saturday
+368,369,UFC on Fox: Maia vs. Condit,2016-08-27,Rogers Arena,10533.0,Vancouver,British Columbia,Canada,27,8,2016,Saturday
+369,370,UFC Fight Night: Arlovski vs. Barnett,2016-09-03,Barclaycard Arena,11763.0,Hamburg,Germany,,3,9,2016,Saturday
+370,371,UFC 203: Miocic vs. Overeem,2016-09-10,Quicken Loans Arena,18875.0,Cleveland,Ohio,U.S.,10,9,2016,Saturday
+371,372,UFC Fight Night: Poirier vs. Johnson,2016-09-17,State Farm Arena,5624.0,Hidalgo,Texas,U.S.,17,9,2016,Saturday
+372,373,UFC Fight Night: Cyborg vs. Länsberg,2016-09-24,Ginásio Nilson Nelson,8410.0,Brasília,Brazil,,24,9,2016,Saturday
+373,374,UFC Fight Night: Lineker vs. Dodson,2016-10-01,Moda Center,6240.0,Portland,Oregon,U.S.,1,10,2016,Saturday
+374,375,UFC 204: Bisping vs. Henderson 2,2016-10-08,Manchester Arena,16000.0,Manchester,England,U.K.,8,10,2016,Saturday
+375,376,The Ultimate Fighter Latin America 3 Finale: dos Anjos vs. Ferguson,2016-11-05,Arena Ciudad de México,11460.0,Mexico City,Mexico,,5,11,2016,Saturday
+376,377,UFC 205: Alvarez vs. McGregor,2016-11-12,Madison Square Garden,20427.0,New York City,New York,U.S.,12,11,2016,Saturday
+377,378,UFC Fight Night: Mousasi vs. Hall 2,2016-11-19,The SSE Arena,7222.0,Belfast,Northern Ireland,U.K.,19,11,2016,Saturday
+378,379,UFC Fight Night: Bader vs. Nogueira 2,2016-11-19,Ginásio do Ibirapuera,9028.0,São Paulo,Brazil,,19,11,2016,Saturday
+379,380,UFC Fight Night: Whittaker vs. Brunson,2016-11-27,Rod Laver Arena,13721.0,Melbourne,Australia,,27,11,2016,Sunday
+380,381,The Ultimate Fighter: Tournament of Champions Finale,2016-12-03,Palms Casino Resort,2044.0,Las Vegas,Nevada,U.S.,3,12,2016,Saturday
+381,382,UFC Fight Night: Lewis vs. Abdurakhimov,2016-12-09,Times Union Center,6216.0,Albany,New York,U.S.,9,12,2016,Friday
+382,383,UFC 206: Holloway vs. Pettis,2016-12-10,Scotiabank Arena,18057.0,Toronto,Ontario,Canada,10,12,2016,Saturday
+383,384,UFC on Fox: VanZant vs. Waterson,2016-12-17,Golden 1 Center,13136.0,Sacramento,California,U.S.,17,12,2016,Saturday
+384,385,UFC 207: Nunes vs. Rousey,2016-12-30,T-Mobile Arena,18533.0,Las Vegas,Nevada,U.S.,30,12,2016,Friday
+385,386,UFC Fight Night: Rodríguez vs. Penn,2017-01-15,Talking Stick Resort Arena,11589.0,Phoenix,Arizona,U.S.,15,1,2017,Sunday
+386,387,UFC on Fox: Shevchenko vs. Peña,2017-01-28,Pepsi Center,13233.0,Denver,Colorado,U.S.,28,1,2017,Saturday
+387,388,UFC Fight Night: Bermudez vs. The Korean Zombie,2017-02-04,Toyota Center,8119.0,Houston,Texas,U.S.,4,2,2017,Saturday
+388,389,UFC 208: Holm vs. de Randamie,2017-02-11,Barclays Center,15628.0,Brooklyn,New York,U.S.,11,2,2017,Saturday
+389,390,UFC Fight Night: Lewis vs. Browne,2017-02-19,Scotiabank Centre,8123.0,Halifax,Nova Scotia,Canada,19,2,2017,Sunday
+390,391,UFC 209: Woodley vs. Thompson 2,2017-03-04,T-Mobile Arena,13150.0,Las Vegas,Nevada,U.S.,4,3,2017,Saturday
+391,392,UFC Fight Night: Belfort vs. Gastelum,2017-03-11,Centro de Formação Olímpica do Nordeste,14069.0,Fortaleza,Brazil,,11,3,2017,Saturday
+392,393,UFC Fight Night: Manuwa vs. Anderson,2017-03-18,The O2 Arena,15761.0,London,England,U.K.,18,3,2017,Saturday
+393,394,UFC 210: Cormier vs. Johnson 2,2017-04-08,KeyBank Center,17110.0,Buffalo,New York,U.S.,8,4,2017,Saturday
+394,395,UFC on Fox: Johnson vs. Reis,2017-04-15,Sprint Center,12171.0,Kansas City,Missouri,U.S.,15,4,2017,Saturday
+395,396,UFC Fight Night: Swanson vs. Lobov,2017-04-22,Bridgestone Arena,10144.0,Nashville,Tennessee,U.S.,22,4,2017,Saturday
+396,397,UFC 211: Miocic vs. dos Santos 2,2017-05-13,American Airlines Center,17834.0,Dallas,Texas,U.S.,13,5,2017,Saturday
+397,398,UFC Fight Night: Gustafsson vs. Teixeira,2017-05-28,Ericsson Globe,12668.0,Stockholm,Sweden,,28,5,2017,Sunday
+398,399,UFC 212: Aldo vs. Holloway,2017-06-03,Jeunesse Arena,15412.0,Rio de Janeiro,Brazil,,3,6,2017,Saturday
+399,400,UFC Fight Night: Lewis vs. Hunt,2017-06-11,Spark Arena,8649.0,Auckland,New Zealand,,11,6,2017,Sunday
+400,401,UFC Fight Night: Holm vs. Correia,2017-06-17,Singapore Indoor Stadium,8414.0,Kallang,Singapore,,17,6,2017,Saturday
+401,402,UFC Fight Night: Chiesa vs. Lee,2017-06-25,Chesapeake Energy Arena,7605.0,Oklahoma City,Oklahoma,U.S.,25,6,2017,Sunday
+402,403,The Ultimate Fighter: Redemption Finale,2017-07-07,T-Mobile Arena,6308.0,Las Vegas,Nevada,U.S.,7,7,2017,Friday
+403,404,UFC 213: Romero vs. Whittaker,2017-07-08,T-Mobile Arena,12834.0,Las Vegas,Nevada,U.S.,8,7,2017,Saturday
+404,405,UFC Fight Night: Nelson vs. Ponzinibbio,2017-07-16,The SSE Hydro,10589.0,Glasgow,Scotland,U.K.,16,7,2017,Sunday
+405,406,UFC on Fox: Weidman vs. Gastelum,2017-07-22,Nassau Veterans Memorial Coliseum,11198.0,Uniondale,New York,U.S.,22,7,2017,Saturday
+406,407,UFC 214: Cormier vs. Jones 2,2017-07-29,Honda Center,16610.0,Anaheim,California,U.S.,29,7,2017,Saturday
+407,408,UFC Fight Night: Pettis vs. Moreno,2017-08-05,Arena Ciudad de México,10172.0,Mexico City,Mexico,,5,8,2017,Saturday
+408,409,UFC Fight Night: Volkov vs. Struve,2017-09-02,Rotterdam Ahoy,10224.0,Rotterdam,Netherlands,,2,9,2017,Saturday
+409,410,UFC 215: Nunes vs. Shevchenko 2,2017-09-09,Rogers Place,16232.0,Edmonton,Alberta,Canada,9,9,2017,Saturday
+410,411,UFC Fight Night: Rockhold vs. Branch,2017-09-16,PPG Paints Arena,7005.0,Pittsburgh,Pennsylvania,U.S.,16,9,2017,Saturday
+411,412,UFC Fight Night: Saint Preux vs. Okami,2017-09-23,Saitama Super Arena,8571.0,Saitama,Japan,,23,9,2017,Saturday
+412,413,UFC 216: Ferguson vs. Lee,2017-10-07,T-Mobile Arena,10638.0,Las Vegas,Nevada,U.S.,7,10,2017,Saturday
+413,414,UFC Fight Night: Cowboy vs. Till,2017-10-21,Ergo Arena,11138.0,Gdańsk,Poland,,21,10,2017,Saturday
+414,415,UFC Fight Night: Brunson vs. Machida,2017-10-28,Ginásio do Ibirapuera,10265.0,São Paulo,Brazil,,28,10,2017,Saturday
+415,416,UFC 217: Bisping vs. St-Pierre,2017-11-04,Madison Square Garden,18201.0,New York City,New York,U.S.,4,11,2017,Saturday
+416,417,UFC Fight Night: Poirier vs. Pettis,2017-11-11,Ted Constant Convocation Center,8442.0,Norfolk,Virginia,U.S.,11,11,2017,Saturday
+417,418,UFC Fight Night: Werdum vs. Tybura,2017-11-19,Qudos Bank Arena,10021.0,Sydney,Australia,,19,11,2017,Sunday
+418,419,UFC Fight Night: Bisping vs. Gastelum,2017-11-25,Mercedes-Benz Arena,15128.0,Shanghai,China,,25,11,2017,Saturday
+419,420,The Ultimate Fighter: A New World Champion Finale,2017-12-01,Park Theater,,Las Vegas,Nevada,U.S.,1,12,2017,Friday
+420,421,UFC 218: Holloway vs. Aldo 2,2017-12-02,Little Caesars Arena,17587.0,Detroit,Michigan,U.S.,2,12,2017,Saturday
+421,422,UFC Fight Night: Swanson vs. Ortega,2017-12-09,Save Mart Center,7605.0,Fresno,California,U.S.,9,12,2017,Saturday
+422,423,UFC on Fox: Lawler vs. dos Anjos,2017-12-16,Bell MTS Place,8862.0,Winnipeg,Manitoba,Canada,16,12,2017,Saturday
+423,424,UFC 219: Cyborg vs. Holm,2017-12-30,T-Mobile Arena,13561.0,Las Vegas,Nevada,U.S.,30,12,2017,Saturday
+424,425,UFC Fight Night: Stephens vs. Choi,2018-01-14,Scottrade Center,10052.0,St. Louis,Missouri,U.S.,14,1,2018,Sunday
+425,426,UFC 220: Miocic vs. Ngannou,2018-01-20,TD Garden,16015.0,Boston,Massachusetts,U.S.,20,1,2018,Saturday
+426,427,UFC on Fox: Jacaré vs. Brunson 2,2018-01-27,Spectrum Center,10249.0,Charlotte,North Carolina,U.S.,27,1,2018,Saturday
+427,428,UFC Fight Night: Machida vs. Anders,2018-02-03,Arena Guilherme Paraense,10144.0,Belém,Brazil,,3,2,2018,Saturday
+428,429,UFC 221: Romero vs. Rockhold,2018-02-11,Perth Arena,12437.0,Perth,Australia,,11,2,2018,Sunday
+429,430,UFC Fight Night: Cowboy vs. Medeiros,2018-02-18,Frank Erwin Center,10502.0,Austin,Texas,U.S.,18,2,2018,Sunday
+430,431,UFC on Fox: Emmett vs. Stephens,2018-02-24,Amway Center,10124.0,Orlando,Florida,U.S.,24,2,2018,Saturday
+431,432,UFC 222: Cyborg vs. Kunitskaya,2018-03-03,T-Mobile Arena,12041.0,Las Vegas,Nevada,U.S.,3,3,2018,Saturday
+432,433,UFC Fight Night: Werdum vs. Volkov,2018-03-17,The O2 Arena,16274.0,London,England,U.K.,17,3,2018,Saturday
+433,434,UFC 223: Khabib vs. Iaquinta,2018-04-07,Barclays Center,17026.0,Brooklyn,New York,U.S.,7,4,2018,Saturday
+434,435,UFC on Fox: Poirier vs. Gaethje,2018-04-14,Gila River Arena,11382.0,Glendale,Arizona,U.S.,14,4,2018,Saturday
+435,436,UFC Fight Night: Barboza vs. Lee,2018-04-21,Boardwalk Hall,9541.0,Atlantic City,New Jersey,U.S.,21,4,2018,Saturday
+436,437,UFC 224: Nunes vs. Pennington,2018-05-12,Jeunesse Arena,10696.0,Rio de Janeiro,Brazil,,12,5,2018,Saturday
+437,438,UFC Fight Night: Maia vs. Usman,2018-05-19,Movistar Arena,11082.0,Santiago,Chile,,19,5,2018,Saturday
+438,439,UFC Fight Night: Thompson vs. Till,2018-05-27,Echo Arena,8520.0,Liverpool,England,U.K.,27,5,2018,Sunday
+439,440,UFC Fight Night: Rivera vs. Moraes,2018-06-01,Adirondack Bank Center,5063.0,Utica,New York,U.S.,1,6,2018,Friday
+440,441,UFC 225: Whittaker vs. Romero 2,2018-06-09,United Center,18117.0,Chicago,Illinois,U.S.,9,6,2018,Saturday
+441,442,UFC Fight Night: Cowboy vs. Edwards,2018-06-23,Singapore Indoor Stadium,6419.0,Kallang,Singapore,,23,6,2018,Saturday
+442,443,The Ultimate Fighter: Undefeated Finale,2018-07-06,Palms Casino Resort,2123.0,Las Vegas,Nevada,U.S,6,7,2018,Friday
+443,444,UFC 226: Miocic vs. Cormier,2018-07-07,T-Mobile Arena,17464.0,Las Vegas,Nevada,U.S,7,7,2018,Saturday
+444,445,UFC Fight Night: dos Santos vs. Ivanov,2018-07-14,CenturyLink Arena,5648.0,Boise,Idaho,U.S.,14,7,2018,Saturday
+445,446,UFC Fight Night: Shogun vs. Smith,2018-07-22,Barclaycard Arena,7798.0,Hamburg,Germany,,22,7,2018,Sunday
+446,447,UFC on Fox: Alvarez vs. Poirier 2,2018-07-28,Scotiabank Saddledome,10603.0,Calgary,Alberta,Canada,28,7,2018,Saturday
+447,448,UFC 227: Dillashaw vs. Garbrandt 2,2018-08-04,Staples Center,17794.0,Los Angeles,California,U.S.,4,8,2018,Saturday
+448,449,UFC Fight Night: Gaethje vs. Vick,2018-08-25,Pinnacle Bank Arena,6409.0,Lincoln,Nebraska,U.S.,25,8,2018,Saturday
+449,450,UFC 228: Woodley vs. Till,2018-09-08,American Airlines Center,14073.0,Dallas,Texas,U.S.,8,9,2018,Saturday
+450,451,UFC Fight Night: Hunt vs. Oleinik,2018-09-15,Olimpiyskiy Stadium,22603.0,Moscow,Russia,,15,9,2018,Saturday
+451,452,UFC Fight Night: Santos vs. Anders,2018-09-22,Ginásio do Ibirapuera,9485.0,São Paulo,Brazil,,22,9,2018,Saturday
+452,453,UFC 229: Khabib vs. McGregor,2018-10-06,T-Mobile Arena,20034.0,Las Vegas,Nevada,U.S,6,10,2018,Saturday
+453,454,UFC Fight Night: Volkan vs. Smith,2018-10-27,Avenir Centre,6282.0,Moncton,New Brunswick,Canada,27,10,2018,Saturday
+454,455,UFC 230: Cormier vs. Lewis,2018-11-03,Madison Square Garden,17011.0,New York City,New York,U.S.,3,11,2018,Saturday
+455,456,UFC Fight Night: The Korean Zombie vs. Rodríguez,2018-11-10,Pepsi Center,11426.0,Denver,Colorado,U.S.,10,11,2018,Saturday
+456,457,UFC Fight Night: Magny vs. Ponzinibbio,2018-11-17,Estadio Mary Terán de Weiss,10245.0,Buenos Aires,Argentina,,17,11,2018,Saturday
+457,458,UFC Fight Night: Blaydes vs. Ngannou 2,2018-11-24,Cadillac Arena,10302.0,Beijing,China,,24,11,2018,Saturday
+458,459,The Ultimate Fighter: Heavy Hitters Finale,2018-11-30,Pearl Theatre,2020.0,Las Vegas,Nevada,U.S.,30,11,2018,Friday
+459,460,UFC Fight Night: dos Santos vs. Tuivasa,2018-12-02,Adelaide Entertainment Centre,8652.0,Adelaide,Australia,,2,12,2018,Sunday
+460,461,UFC 231: Holloway vs. Ortega,2018-12-08,Scotiabank Arena,19039.0,Toronto,Ontario,Canada,8,12,2018,Saturday
+461,462,UFC on Fox: Lee vs. Iaquinta 2,2018-12-15,Fiserv Forum,9010.0,Milwaukee,Wisconsin,U.S.,15,12,2018,Saturday
+462,463,UFC 232: Jones vs. Gustafsson 2,2018-12-29,The Forum,15862.0,Inglewood,California,U.S.,29,12,2018,Saturday
+463,464,UFC Fight Night: Cejudo vs. Dillashaw,2019-01-19,Barclays Center,12152.0,Brooklyn,New York,U.S.,19,1,2019,Saturday
+464,465,UFC Fight Night: Assunção vs. Moraes 2,2019-02-02,Centro de Formação Olímpica do Nordeste,10040.0,Fortaleza,Brazil,,2,2,2019,Saturday
+465,466,UFC 234: Adesanya vs. Silva,2019-02-10,Rod Laver Arena,15238.0,Melbourne,Australia,,10,2,2019,Sunday
+466,467,UFC on ESPN: Ngannou vs. Velasquez,2019-02-17,Talking Stick Resort Arena,14269.0,Phoenix,Arizona,U.S.,17,2,2019,Sunday
+467,468,UFC Fight Night: Błachowicz vs. Santos,2019-02-23,O2 arena,16583.0,Prague,Czech Republic,,23,2,2019,Saturday
+468,469,UFC 235: Jones vs. Smith,2019-03-02,T-Mobile Arena,14790.0,Las Vegas,Nevada,U.S,2,3,2019,Saturday
+469,470,UFC Fight Night: Lewis vs. dos Santos,2019-03-09,Intrust Bank Arena,7265.0,Wichita,Kansas,U.S.,9,3,2019,Saturday
+470,471,UFC Fight Night: Till vs. Masvidal,2019-03-16,The O2 Arena,16602.0,London,England,U.K.,16,3,2019,Saturday
+471,472,UFC Fight Night: Thompson vs. Pettis,2019-03-23,Bridgestone Arena,10863.0,Nashville,Tennessee,U.S.,23,3,2019,Saturday
+472,473,UFC on ESPN: Barboza vs. Gaethje,2019-03-30,Wells Fargo Center,11123.0,Philadelphia,Pennsylvania,U.S.,30,3,2019,Saturday
+473,474,UFC 236: Holloway vs. Poirier 2,2019-04-13,State Farm Arena,14297.0,Atlanta,Georgia,U.S.,13,4,2019,Saturday
+474,475,UFC Fight Night: Overeem vs. Oleinik,2019-04-20,Yubileyny Sports Palace,7236.0,Saint Petersburg,Russia,,20,4,2019,Saturday
+475,476,UFC Fight Night: Jacaré vs. Hermansson,2019-04-27,BB&T Center,12754.0,Sunrise,Florida,U.S.,27,4,2019,Saturday
+476,477,UFC Fight Night: Iaquinta vs. Cowboy,2019-05-04,Canadian Tire Centre,10960.0,Ottawa,Ontario,Canada,4,5,2019,Saturday
+477,478,UFC 237: Namajunas vs. Andrade,2019-05-11,Jeunesse Arena,15193.0,Rio de Janeiro,Brazil,,11,5,2019,Saturday
+478,479,UFC Fight Night: dos Anjos vs. Lee,2019-05-18,Blue Cross Arena,8132.0,Rochester,New York,U.S.,18,5,2019,Saturday
+479,480,UFC Fight Night: Gustafsson vs. Smith,2019-06-01,Ericsson Globe,14319.0,Stockholm,Sweden,,1,6,2019,Saturday
+480,481,UFC 238: Cejudo vs. Moraes,2019-06-08,United Center,16083.0,Chicago,Illinois,U.S.,8,6,2019,Saturday
+481,482,UFC Fight Night: Moicano vs. The Korean Zombie,2019-06-22,Bon Secours Wellness Arena,7682.0,Greenville,South Carolina,U.S.,22,6,2019,Saturday
+482,483,UFC on ESPN: Ngannou vs. dos Santos,2019-06-29,Target Center,10123.0,Minneapolis,Minnesota,U.S.,29,6,2019,Saturday
+483,484,UFC 239: Jones vs. Santos,2019-07-06,T-Mobile Arena,18358.0,Las Vegas,Nevada,U.S.,6,7,2019,Saturday
+484,485,UFC Fight Night: de Randamie vs. Ladd,2019-07-13,Golden 1 Center,10306.0,Sacramento,California,U.S.,13,7,2019,Saturday
+485,486,UFC on ESPN: dos Anjos vs. Edwards,2019-07-20,AT&T Center,9255.0,San Antonio,Texas,U.S.,20,7,2019,Saturday
+486,487,UFC 240: Holloway vs. Edgar,2019-07-27,Rogers Place,12144.0,Edmonton,Alberta,Canada,27,7,2019,Saturday
+487,488,UFC on ESPN: Covington vs. Lawler,2019-08-03,Prudential Center,10427.0,Newark,New Jersey,U.S.,3,8,2019,Saturday
+488,489,UFC Fight Night: Shevchenko vs. Carmouche 2,2019-08-10,Antel Arena,9225.0,Montevideo,Uruguay,,10,8,2019,Saturday
+489,490,UFC 241: Cormier vs. Miocic 2,2019-08-17,Honda Center,17304.0,Anaheim,California,U.S.,17,8,2019,Saturday
+490,491,UFC Fight Night: Andrade vs. Zhang,2019-08-31,Shenzhen Universiade Sports Centre,10302.0,Shenzhen,China,,31,8,2019,Saturday
+491,492,UFC 242: Khabib vs. Poirier,2019-09-07,"The Arena, Yas Island",,Abu Dhabi,United Arab Emirates,,7,9,2019,Saturday
+492,493,UFC Fight Night: Cowboy vs. Gaethje,2019-09-14,Rogers Arena,15114.0,Vancouver,British Columbia,Canada,14,9,2019,Saturday
+493,494,UFC Fight Night: Rodríguez vs. Stephens,2019-09-21,Arena Ciudad de México,10112.0,Mexico City,Mexico,,21,9,2019,Saturday
+494,495,UFC Fight Night: Hermansson vs. Cannonier,2019-09-28,Royal Arena,12767.0,Copenhagen,Denmark,,28,9,2019,Saturday
+495,496,UFC 243: Whittaker vs. Adesanya,2019-10-05,Marvel Stadium,57127.0,Melbourne,Australia,,5,10,2019,Saturday
+496,497,UFC Fight Night: Joanna vs. Waterson,2019-10-12,Amalie Arena,10597.0,Tampa,Florida,U.S.,12,10,2019,Saturday
+497,498,UFC on ESPN: Reyes vs. Weidman,2019-10-18,TD Garden,12066.0,Boston,Massachusetts,U.S.,18,10,2019,Friday
+498,499,UFC Fight Night: Maia vs. Askren,2019-10-26,Singapore Indoor Stadium,7155.0,Kallang,Singapore,,26,10,2019,Saturday
+499,500,UFC 244: Masvidal vs. Diaz,2019-11-02,Madison Square Garden,20143.0,New York City,New York,U.S.,2,11,2019,Saturday
+500,501,UFC Fight Night: Magomedsharipov vs. Kattar,2019-11-09,CSKA Arena,11305.0,Moscow,Russia,,9,11,2019,Saturday
+501,502,UFC Fight Night: Błachowicz vs. Jacaré,2019-11-16,Ginásio do Ibirapuera,10344.0,São Paulo,Brazil,,16,11,2019,Saturday
+502,503,UFC on ESPN: Overeem vs. Rozenstruik,2019-12-07,Capital One Arena,10816.0,Washington,D.C.,U.S.,7,12,2019,Saturday
+503,504,UFC 245: Usman vs. Covington,2019-12-14,T-Mobile Arena,16811.0,Las Vegas,Nevada,U.S.,14,12,2019,Saturday
+504,505,UFC Fight Night: Edgar vs. The Korean Zombie,2019-12-21,Sajik Arena,10651.0,Busan,South Korea,,21,12,2019,Saturday
+505,506,UFC 246: McGregor vs. Cowboy,2020-01-18,T-Mobile Arena,19040.0,Las Vegas,Nevada,U.S.,18,1,2020,Saturday
+506,507,UFC Fight Night: Blaydes vs. dos Santos,2020-01-25,PNC Arena,14533.0,Raleigh,North Carolina,U.S.,25,1,2020,Saturday
+507,508,UFC 247: Jones vs. Reyes,2020-02-08,Toyota Center,17401.0,Houston,Texas,U.S.,8,2,2020,Saturday
+508,509,UFC Fight Night: Anderson vs. Błachowicz 2,2020-02-15,Santa Ana Star Center,6449.0,Rio Rancho,New Mexico,U.S.,15,2,2020,Saturday
+509,510,UFC Fight Night: Felder vs. Hooker,2020-02-23,Spark Arena,10025.0,Auckland,New Zealand,,23,2,2020,Sunday
+510,511,UFC Fight Night: Benavidez vs. Figueiredo,2020-02-29,Chartway Arena,7098.0,Norfolk,Virginia,U.S.,29,2,2020,Saturday
+511,512,UFC 248: Adesanya vs. Romero,2020-03-07,T-Mobile Arena,15077.0,Las Vegas,Nevada,U.S.,7,3,2020,Saturday
+512,513,UFC Fight Night: Lee vs. Oliveira,2020-03-14,Ginásio Nilson Nelson,0.0,Brasília,Brazil,,14,3,2020,Saturday
+513,514,UFC 249: Ferguson vs. Gaethje,2020-05-09,VyStar Veterans Memorial Arena,0.0,Jacksonville,Florida,U.S.,9,5,2020,Saturday
+514,515,UFC Fight Night: Smith vs. Teixeira,2020-05-13,VyStar Veterans Memorial Arena,0.0,Jacksonville,Florida,U.S.,13,5,2020,Wednesday
+515,516,UFC on ESPN: Overeem vs. Harris,2020-05-16,VyStar Veterans Memorial Arena,0.0,Jacksonville,Florida,U.S.,16,5,2020,Saturday
+516,517,UFC on ESPN: Woodley vs. Burns,2020-05-30,UFC Apex,0.0,Las Vegas,Nevada,U.S.,30,5,2020,Saturday
+517,518,UFC 250: Nunes vs. Spencer,2020-06-06,UFC Apex,0.0,Las Vegas,Nevada,U.S.,6,6,2020,Saturday
+518,519,UFC on ESPN: Eye vs. Calvillo,2020-06-13,UFC Apex,0.0,Las Vegas,Nevada,U.S.,13,6,2020,Saturday
+519,520,UFC on ESPN: Blaydes vs. Volkov,2020-06-20,UFC Apex,0.0,Las Vegas,Nevada,U.S.,20,6,2020,Saturday
+520,521,UFC on ESPN: Poirier vs. Hooker,2020-06-27,UFC Apex,0.0,Las Vegas,Nevada,U.S.,27,6,2020,Saturday
+521,522,UFC 251: Usman vs. Masvidal,2020-07-12,du Forum,0.0,Abu Dhabi,United Arab Emirates,,12,7,2020,Sunday
+522,523,UFC on ESPN: Kattar vs. Ige,2020-07-16,du Forum,0.0,Abu Dhabi,United Arab Emirates,,16,7,2020,Thursday
+523,524,UFC Fight Night: Figueiredo vs. Benavidez 2,2020-07-19,du Forum,0.0,Abu Dhabi,United Arab Emirates,,19,7,2020,Sunday
+524,525,UFC on ESPN: Whittaker vs. Till,2020-07-26,du Forum,0.0,Abu Dhabi,United Arab Emirates,,26,7,2020,Sunday
+525,526,UFC Fight Night: Brunson vs. Shahbazyan,2020-08-01,UFC Apex,0.0,Las Vegas,Nevada,U.S.,1,8,2020,Saturday
+526,527,UFC Fight Night: Lewis vs. Oleinik,2020-08-08,UFC Apex,0.0,Las Vegas,Nevada,U.S.,8,8,2020,Saturday
+527,528,UFC 252: Miocic vs. Cormier 3,2020-08-15,UFC Apex,0.0,Las Vegas,Nevada,U.S.,15,8,2020,Saturday
+528,529,UFC on ESPN: Munhoz vs. Edgar,2020-08-22,UFC Apex,0.0,Las Vegas,Nevada,U.S.,22,8,2020,Saturday
+529,530,UFC Fight Night: Smith vs. Rakić,2020-08-29,UFC Apex,0.0,Las Vegas,Nevada,U.S.,29,8,2020,Saturday
+530,531,UFC Fight Night: Overeem vs. Sakai,2020-09-05,UFC Apex,0.0,Las Vegas,Nevada,U.S.,5,9,2020,Saturday
+531,532,UFC Fight Night: Waterson vs. Hill,2020-09-12,UFC Apex,0.0,Las Vegas,Nevada,U.S.,12,9,2020,Saturday
+532,533,UFC Fight Night: Covington vs. Woodley,2020-09-19,UFC Apex,0.0,Las Vegas,Nevada,U.S.,19,9,2020,Saturday
+533,534,UFC 253: Adesanya vs. Costa,2020-09-27,du Forum,0.0,Abu Dhabi,United Arab Emirates,,27,9,2020,Sunday
+534,535,UFC on ESPN: Holm vs. Aldana,2020-10-04,du Forum,0.0,Abu Dhabi,United Arab Emirates,,4,10,2020,Sunday
+535,536,UFC Fight Night: Moraes vs. Sandhagen,2020-10-11,du Forum,0.0,Abu Dhabi,United Arab Emirates,,11,10,2020,Sunday
+536,537,UFC Fight Night: Ortega vs. The Korean Zombie,2020-10-18,du Forum,0.0,Abu Dhabi,United Arab Emirates,,18,10,2020,Sunday
+537,538,UFC 254: Khabib vs. Gaethje,2020-10-24,du Forum,0.0,Abu Dhabi,United Arab Emirates,,24,10,2020,Saturday
+538,539,UFC Fight Night: Hall vs. Silva,2020-10-31,UFC Apex,0.0,Las Vegas,Nevada,U.S.,31,10,2020,Saturday
+539,540,UFC on ESPN: Santos vs. Teixeira,2020-11-07,UFC Apex,0.0,Las Vegas,Nevada,U.S.,7,11,2020,Saturday
+540,541,UFC Fight Night: Felder vs. dos Anjos,2020-11-14,UFC Apex,0.0,Las Vegas,Nevada,U.S.,14,11,2020,Saturday
+541,542,UFC 255: Figueiredo vs. Perez,2020-11-21,UFC Apex,0.0,Las Vegas,Nevada,U.S.,21,11,2020,Saturday
+542,543,UFC on ESPN: Smith vs. Clark,2020-11-28,UFC Apex,0.0,Las Vegas,Nevada,U.S.,28,11,2020,Saturday
+543,544,UFC on ESPN: Hermansson vs. Vettori,2020-12-05,UFC Apex,0.0,Las Vegas,Nevada,U.S.,5,12,2020,Saturday
+544,545,UFC 256: Figueiredo vs. Moreno,2020-12-12,UFC Apex,0.0,Las Vegas,Nevada,U.S.,12,12,2020,Saturday
+545,546,UFC Fight Night: Thompson vs. Neal,2020-12-19,UFC Apex,0.0,Las Vegas,Nevada,U.S.,19,12,2020,Saturday
+546,547,UFC on ABC: Holloway vs. Kattar,2021-01-16,Etihad Arena,2000.0,Abu Dhabi,United Arab Emirates,,16,1,2021,Saturday
+547,548,UFC on ESPN: Chiesa vs. Magny,2021-01-20,Etihad Arena,2000.0,Abu Dhabi,United Arab Emirates,,20,1,2021,Wednesday
+548,549,UFC 257: Poirier vs. McGregor 2,2021-01-24,Etihad Arena,2600.0,Abu Dhabi,United Arab Emirates,,24,1,2021,Sunday
+549,550,UFC Fight Night: Overeem vs. Volkov,2021-02-06,UFC Apex,0.0,Las Vegas,Nevada,U.S.,6,2,2021,Saturday
+550,551,UFC 258: Usman vs. Burns,2021-02-13,UFC Apex,0.0,Las Vegas,Nevada,U.S.,13,2,2021,Saturday
+551,552,UFC Fight Night: Blaydes vs. Lewis,2021-02-20,UFC Apex,0.0,Las Vegas,Nevada,U.S.,20,2,2021,Saturday
+552,553,UFC Fight Night: Rozenstruik vs. Gane,2021-02-27,UFC Apex,0.0,Las Vegas,Nevada,U.S.,27,2,2021,Saturday
+553,554,UFC 259: Błachowicz vs. Adesanya,2021-03-06,UFC Apex,0.0,Las Vegas,Nevada,U.S.,6,3,2021,Saturday
+554,555,UFC Fight Night: Edwards vs. Muhammad,2021-03-13,UFC Apex,0.0,Las Vegas,Nevada,U.S.,13,3,2021,Saturday
+555,556,UFC on ESPN: Brunson vs. Holland,2021-03-20,UFC Apex,0.0,Las Vegas,Nevada,U.S.,20,3,2021,Saturday
+556,557,UFC 260: Miocic vs. Ngannou 2,2021-03-27,UFC Apex,0.0,Las Vegas,Nevada,U.S.,27,3,2021,Saturday
+557,558,UFC on ABC: Vettori vs. Holland,2021-04-10,UFC Apex,0.0,Las Vegas,Nevada,U.S.,10,4,2021,Saturday
+558,559,UFC on ESPN: Whittaker vs. Gastelum,2021-04-17,UFC Apex,0.0,Las Vegas,Nevada,U.S.,17,4,2021,Saturday
+559,560,UFC 261: Usman vs. Masvidal 2,2021-04-24,VyStar Veterans Memorial Arena,15269.0,Jacksonville,Florida,U.S.,24,4,2021,Saturday
+560,561,UFC on ESPN: Reyes vs. Procházka,2021-05-01,UFC Apex,0.0,Las Vegas,Nevada,U.S.,1,5,2021,Saturday
+561,562,UFC on ESPN: Rodriguez vs. Waterson,2021-05-08,UFC Apex,0.0,Las Vegas,Nevada,U.S.,8,5,2021,Saturday
+562,563,UFC 262: Oliveira vs. Chandler,2021-05-15,Toyota Center,16005.0,Houston,Texas,U.S.,15,5,2021,Saturday
+563,564,UFC Fight Night: Font vs. Garbrandt,2021-05-22,UFC Apex,0.0,Las Vegas,Nevada,U.S.,22,5,2021,Saturday
+564,565,UFC Fight Night: Rozenstruik vs. Sakai,2021-06-05,UFC Apex,0.0,Las Vegas,Nevada,U.S.,5,6,2021,Saturday
+565,566,UFC 263: Adesanya vs. Vettori 2,2021-06-12,Gila River Arena,17208.0,Glendale,Arizona,U.S.,12,6,2021,Saturday
+566,567,UFC on ESPN: The Korean Zombie vs. Ige,2021-06-19,UFC Apex,0.0,Las Vegas,Nevada,U.S.,19,6,2021,Saturday
+567,568,UFC Fight Night: Gane vs. Volkov,2021-06-26,UFC Apex,0.0,Las Vegas,Nevada,U.S.,26,6,2021,Saturday
+568,569,UFC 264: Poirier vs. McGregor 3,2021-07-10,T-Mobile Arena,20062.0,Las Vegas,Nevada,U.S.,10,7,2021,Saturday
+569,570,UFC on ESPN: Makhachev vs. Moisés,2021-07-17,UFC Apex,0.0,Las Vegas,Nevada,U.S.,17,7,2021,Saturday
+570,571,UFC on ESPN: Sandhagen vs. Dillashaw,2021-07-24,UFC Apex,51.0,Las Vegas,Nevada,U.S.,24,7,2021,Saturday
+571,572,UFC on ESPN: Hall vs. Strickland,2021-07-31,UFC Apex,,Las Vegas,Nevada,U.S.,31,7,2021,Saturday
+572,573,UFC 265: Lewis vs. Gane,2021-08-07,Toyota Center,16604.0,Houston,Texas,U.S.,7,8,2021,Saturday
+573,574,UFC on ESPN: Cannonier vs. Gastelum,2021-08-21,UFC Apex,,Las Vegas,Nevada,U.S.,21,8,2021,Saturday
+574,575,UFC on ESPN: Barboza vs. Chikadze,2021-08-28,UFC Apex,,Las Vegas,Nevada,U.S.,28,8,2021,Saturday
+575,576,UFC Fight Night: Brunson vs. Till,2021-09-04,UFC Apex,,Las Vegas,Nevada,U.S.,4,9,2021,Saturday
+576,577,UFC Fight Night: Smith vs. Spann,2021-09-18,UFC Apex,,Las Vegas,Nevada,U.S.,18,9,2021,Saturday
+577,578,UFC 266: Volkanovski vs. Ortega,2021-09-25,T-Mobile Arena,19029.0,Las Vegas,Nevada,U.S.,25,9,2021,Saturday
+578,579,UFC Fight Night: Santos vs. Walker,2021-10-02,UFC Apex,,Las Vegas,Nevada,U.S.,2,10,2021,Saturday
+579,580,UFC Fight Night: Dern vs. Rodriguez,2021-10-09,UFC Apex,,Las Vegas,Nevada,U.S.,9,10,2021,Saturday
+580,581,UFC Fight Night: Ladd vs. Dumont,2021-10-16,UFC Apex,,Las Vegas,Nevada,U.S.,16,10,2021,Saturday
+581,582,UFC Fight Night: Costa vs. Vettori,2021-10-23,UFC Apex,,Las Vegas,Nevada,U.S.,23,10,2021,Saturday
+582,583,UFC 267: Błachowicz vs. Teixeira,2021-10-30,Etihad Arena,10171.0,Abu Dhabi,United Arab Emirates,,30,10,2021,Saturday
+583,584,UFC 268: Usman vs. Covington 2,2021-11-06,Madison Square Garden,20715.0,New York City,New York,U.S.,6,11,2021,Saturday
+584,585,UFC Fight Night: Holloway vs. Rodríguez,2021-11-13,UFC Apex,,Las Vegas,Nevada,U.S.,13,11,2021,Saturday
+585,586,UFC Fight Night: Vieira vs. Tate,2021-11-20,UFC Apex,,Las Vegas,Nevada,U.S.,20,11,2021,Saturday
+586,587,UFC on ESPN: Font vs. Aldo,2021-12-04,UFC Apex,,Las Vegas,Nevada,U.S.,4,12,2021,Saturday
+587,588,UFC 269: Oliveira vs. Poirier,2021-12-11,T-Mobile Arena,18471.0,Las Vegas,Nevada,U.S.,11,12,2021,Saturday
+588,589,UFC Fight Night: Lewis vs. Daukaus,2021-12-18,UFC Apex,,Las Vegas,Nevada,U.S.,18,12,2021,Saturday
+589,590,UFC on ESPN: Kattar vs. Chikadze,2022-01-15,UFC Apex,,Las Vegas,Nevada,U.S.,15,1,2022,Saturday
+590,591,UFC 270: Ngannou vs. Gane,2022-01-22,Honda Center,17387.0,Anaheim,California,U.S.,22,1,2022,Saturday
+591,592,UFC Fight Night: Hermansson vs. Strickland,2022-02-05,UFC Apex,,Las Vegas,Nevada,U.S.,5,2,2022,Saturday
+592,593,UFC 271: Adesanya vs. Whittaker 2,2022-02-12,Toyota Center,17872.0,Houston,Texas,U.S,12,2,2022,Saturday
+593,594,UFC Fight Night: Walker vs. Hill,2022-02-19,UFC Apex,,Las Vegas,Nevada,U.S.,19,2,2022,Saturday
+594,595,UFC Fight Night: Makhachev vs. Green,2022-02-26,UFC Apex,,Las Vegas,Nevada,U.S.,26,2,2022,Saturday
+595,596,UFC 272: Covington vs. Masvidal,2022-03-05,T-Mobile Arena,19425.0,Las Vegas,Nevada,U.S.,5,3,2022,Saturday
+596,597,UFC Fight Night: Santos vs. Ankalaev,2022-03-12,UFC Apex,,Las Vegas,Nevada,U.S.,12,3,2022,Saturday
+597,598,UFC Fight Night: Volkov vs. Aspinall,2022-03-19,The O2 Arena,17081.0,London,England,U.K.,19,3,2022,Saturday
+598,599,UFC on ESPN: Blaydes vs. Daukaus,2022-03-26,Nationwide Arena,18630.0,Columbus,Ohio,U.S.,26,3,2022,Saturday
+599,600,UFC 273: Volkanovski vs. The Korean Zombie,2022-04-09,VyStar Veterans Memorial Arena,14605.0,Jacksonville,Florida,U.S.,9,4,2022,Saturday
+600,601,UFC on ESPN: Luque vs. Muhammad 2,2022-04-16,UFC Apex,,Las Vegas,Nevada,U.S.,16,4,2022,Saturday
+601,602,UFC Fight Night: Lemos vs. Andrade,2022-04-23,UFC Apex,,Las Vegas,Nevada,U.S.,23,4,2022,Saturday
+602,603,UFC on ESPN: Font vs. Vera,2022-04-30,UFC Apex,,Las Vegas,Nevada,U.S.,30,4,2022,Saturday
+603,604,UFC 274: Oliveira vs Gaethje,2022-05-07,Footprint Center,17232.0,Phoenix,Arizona,U.S.,7,5,2022,Saturday
+604,605,UFC on ESPN: Błachowicz vs. Rakić,2022-05-14,UFC Apex,,Las Vegas,Nevada,U.S.,14,5,2022,Saturday
+605,606,UFC Fight Night: Holm vs. Vieira,2022-05-21,UFC Apex,,Las Vegas,Nevada,U.S.,21,5,2022,Saturday
+606,607,UFC Fight Night: Volkov vs. Rozenstruik,2022-06-04,UFC Apex,,Las Vegas,Nevada,U.S.,4,6,2022,Saturday
+607,608,UFC 275: Teixeira vs. Procházka,2022-06-12,Singapore Indoor Stadium,10787.0,Kallang,Singapore,,12,6,2022,Sunday
+608,609,UFC on ESPN: Kattar vs. Emmett,2022-06-18,Moody Center,13689.0,Austin,Texas,U.S.,18,6,2022,Saturday
+609,610,UFC on ESPN: Tsarukyan vs. Gamrot,2022-06-25,UFC Apex,,Las Vegas,Nevada,U.S.,25,6,2022,Saturday
+610,611,UFC 276: Adesanya vs. Cannonier,2022-07-02,T-Mobile Arena,19649.0,Las Vegas,Nevada,U.S.,2,7,2022,Saturday
+611,612,UFC on ESPN: dos Anjos vs. Fiziev,2022-07-09,UFC Apex,,Las Vegas,Nevada,U.S.,9,7,2022,Saturday
+612,613,UFC on ABC: Ortega vs. Rodríguez,2022-07-16,UBS Arena,16979.0,Elmont,New York,U.S.,16,7,2022,Saturday
+613,614,UFC Fight Night: Blaydes vs. Aspinall,2022-07-23,The O2 Arena,17813.0,London,England,U.K.,23,7,2022,Saturday
+614,615,UFC 277: Peña vs. Nunes 2,2022-07-30,American Airlines Center,19442.0,Dallas,Texas,U.S.,30,7,2022,Saturday
+615,616,UFC on ESPN: Santos vs. Hill,2022-08-06,UFC Apex,,Las Vegas,Nevada,U.S.,6,8,2022,Saturday
+616,617,UFC on ESPN: Vera vs. Cruz,2022-08-13,Pechanga Arena,12804.0,San Diego,California,U.S.,13,8,2022,Saturday
+617,618,UFC 278: Usman vs. Edwards 2,2022-08-20,Vivint Arena,18321.0,Salt Lake City,Utah,U.S.,20,8,2022,Saturday
+618,619,UFC Fight Night: Gane vs. Tuivasa,2022-09-03,Accor Arena,15405.0,Paris,France,,3,9,2022,Saturday
+619,620,UFC 279: Diaz vs. Ferguson,2022-09-10,T-Mobile Arena,19125.0,Las Vegas,Nevada,U.S.,10,9,2022,Saturday
+620,621,UFC Fight Night: Sandhagen vs. Song,2022-09-17,UFC Apex,,Las Vegas,Nevada,U.S.,17,9,2022,Saturday
+621,622,UFC Fight Night: Dern vs. Yan,2022-10-01,UFC Apex,,Las Vegas,Nevada,U.S.,1,10,2022,Saturday
+622,623,UFC Fight Night: Grasso vs. Araújo,2022-10-15,UFC Apex,,Las Vegas,Nevada,U.S.,15,10,2022,Saturday
+623,624,UFC 280: Oliveira vs. Makhachev,2022-10-22,Etihad Arena,13400.0,Abu Dhabi,United Arab Emirates,,22,10,2022,Saturday
+624,625,UFC Fight Night: Kattar vs. Allen,2022-10-29,UFC Apex,,Las Vegas,Nevada,U.S.,29,10,2022,Saturday
